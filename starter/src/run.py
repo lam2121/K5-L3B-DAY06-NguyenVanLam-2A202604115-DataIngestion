@@ -22,12 +22,19 @@ def main() -> None:
     # 1. Load configuration
     base_dir = Path(__file__).resolve().parent.parent
     load_dotenv(base_dir / ".env")
+    if not (base_dir / ".env").exists() and (base_dir / "starter" / ".env").exists():
+        load_dotenv(base_dir / "starter" / ".env")
 
     db_url = os.getenv("DATABASE_URL", "postgresql://day6:day6_local_only@127.0.0.1:55433/day6_lab")
     model_name = os.getenv("EMBEDDING_MODEL", "all-MiniLM-L6-v2")
 
     pdf_path = base_dir / "data" / "College_Success_web.pdf"
+    if not pdf_path.exists() and (base_dir / "starter" / "data" / "College_Success_web.pdf").exists():
+        pdf_path = base_dir / "starter" / "data" / "College_Success_web.pdf"
+
     benchmark_path = base_dir / "data" / "benchmark.json"
+    if not benchmark_path.exists() and (base_dir / "benchmark" / "benchmark.json").exists():
+        benchmark_path = base_dir / "benchmark" / "benchmark.json"
     results_dir = base_dir / "results"
     results_dir.mkdir(parents=True, exist_ok=True)
     exp_log_path = base_dir.parent / "artifacts" / "experiment_log.csv"
