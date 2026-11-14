@@ -1,0 +1,3434 @@
+{
+  "source_id": "openstax-college-success",
+  "title": "College Success",
+  "publisher": "OpenStax, Rice University",
+  "source_path": "starter/data/College_Success_web.pdf",
+  "source_url": "https://openstax.org/details/books/college-success",
+  "license_or_permission": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "accessed_at": "2026-11-14",
+  "version": "col30990/1.7 (March 2020)",
+  "language": "en",
+  "page_counting_rules": {
+    "total_physical_pages": 465,
+    "content_pages_count": 443,
+    "front_matter_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "back_matter_pages": [
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465
+    ],
+    "rules": "Trang nội dung được tính là các trang từ Preface (trang 11) đến hết Chapter 12 (trang 456) có độ dài ký tự >= 100 sau chuẩn hóa; loại bỏ trang bìa, thông tin xuất bản, mục lục (trang 1-10), đáp án/index (trang 457-465) và các trang chuyển chương rỗng.",
+    "total_content_characters": 1094216
+  },
+  "chapters": [
+    {
+      "chapter_number": 0,
+      "title": "Preface",
+      "start_page": 11,
+      "end_page": 16,
+      "page_count": 6,
+      "content_pages": 5,
+      "total_chars": 13151
+    },
+    {
+      "chapter_number": 1,
+      "title": "Exploring College",
+      "start_page": 17,
+      "end_page": 42,
+      "page_count": 26,
+      "content_pages": 26,
+      "total_chars": 62589
+    },
+    {
+      "chapter_number": 2,
+      "title": "Knowing Yourself as a Learner",
+      "start_page": 43,
+      "end_page": 82,
+      "page_count": 40,
+      "content_pages": 40,
+      "total_chars": 104608
+    },
+    {
+      "chapter_number": 3,
+      "title": "Managing Your Time and Priorities",
+      "start_page": 83,
+      "end_page": 124,
+      "page_count": 42,
+      "content_pages": 42,
+      "total_chars": 94605
+    },
+    {
+      "chapter_number": 4,
+      "title": "Planning Your Academic Pathways",
+      "start_page": 125,
+      "end_page": 160,
+      "page_count": 36,
+      "content_pages": 36,
+      "total_chars": 85777
+    },
+    {
+      "chapter_number": 5,
+      "title": "Reading and Notetaking",
+      "start_page": 161,
+      "end_page": 200,
+      "page_count": 40,
+      "content_pages": 40,
+      "total_chars": 88949
+    },
+    {
+      "chapter_number": 6,
+      "title": "Studying, Memory, and Test Taking",
+      "start_page": 201,
+      "end_page": 230,
+      "page_count": 30,
+      "content_pages": 30,
+      "total_chars": 77076
+    },
+    {
+      "chapter_number": 7,
+      "title": "Thinking",
+      "start_page": 231,
+      "end_page": 264,
+      "page_count": 34,
+      "content_pages": 34,
+      "total_chars": 89718
+    },
+    {
+      "chapter_number": 8,
+      "title": "Communicating",
+      "start_page": 265,
+      "end_page": 292,
+      "page_count": 28,
+      "content_pages": 28,
+      "total_chars": 67644
+    },
+    {
+      "chapter_number": 9,
+      "title": "Understanding Civility and Cultural Competence",
+      "start_page": 293,
+      "end_page": 328,
+      "page_count": 36,
+      "content_pages": 36,
+      "total_chars": 93357
+    },
+    {
+      "chapter_number": 10,
+      "title": "Understanding Financial literacy",
+      "start_page": 329,
+      "end_page": 374,
+      "page_count": 46,
+      "content_pages": 46,
+      "total_chars": 98934
+    },
+    {
+      "chapter_number": 11,
+      "title": "Engaging in a Healthy Lifestyle",
+      "start_page": 375,
+      "end_page": 412,
+      "page_count": 38,
+      "content_pages": 38,
+      "total_chars": 100404
+    },
+    {
+      "chapter_number": 12,
+      "title": "Planning for Your Future",
+      "start_page": 413,
+      "end_page": 456,
+      "page_count": 44,
+      "content_pages": 42,
+      "total_chars": 117679
+    },
+    {
+      "chapter_number": 13,
+      "title": "Appendix: Answer Key",
+      "start_page": 457,
+      "end_page": 464,
+      "page_count": 8,
+      "content_pages": 0,
+      "total_chars": 4964
+    },
+    {
+      "chapter_number": 14,
+      "title": "Index",
+      "start_page": 465,
+      "end_page": 465,
+      "page_count": 1,
+      "content_pages": 0,
+      "total_chars": 1668
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "chapter_number": -1,
+      "chapter_title": "Front Matter",
+      "char_count": 0,
+      "is_content_page": false
+    },
+    {
+      "page": 2,
+      "chapter_number": -1,
+      "chapter_title": "Front Matter",
+      "char_count": 0,
+      "is_content_page": false
+    },
+    {
+      "page": 3,
+      "chapter_number": -1,
+      "chapter_title": "Front Matter",
+      "char_count": 86,
+      "is_content_page": false
+    },
+    {
+      "page": 4,
+      "chapter_number": -1,
+      "chapter_title": "Front Matter",
+      "char_count": 1826,
+      "is_content_page": false
+    },
+    {
+      "page": 5,
+      "chapter_number": -1,
+      "chapter_title": "Front Matter",
+      "char_count": 1705,
+      "is_content_page": false
+    },
+    {
+      "page": 6,
+      "chapter_number": -1,
+      "chapter_title": "Front Matter",
+      "char_count": 0,
+      "is_content_page": false
+    },
+    {
+      "page": 7,
+      "chapter_number": -1,
+      "chapter_title": "Front Matter",
+      "char_count": 1117,
+      "is_content_page": false
+    },
+    {
+      "page": 8,
+      "chapter_number": -1,
+      "chapter_title": "Front Matter",
+      "char_count": 1323,
+      "is_content_page": false
+    },
+    {
+      "page": 9,
+      "chapter_number": -1,
+      "chapter_title": "Front Matter",
+      "char_count": 367,
+      "is_content_page": false
+    },
+    {
+      "page": 10,
+      "chapter_number": -1,
+      "chapter_title": "Front Matter",
+      "char_count": 79,
+      "is_content_page": false
+    },
+    {
+      "page": 11,
+      "chapter_number": 0,
+      "chapter_title": "Preface",
+      "char_count": 2926,
+      "is_content_page": true
+    },
+    {
+      "page": 12,
+      "chapter_number": 0,
+      "chapter_title": "Preface",
+      "char_count": 3772,
+      "is_content_page": true
+    },
+    {
+      "page": 13,
+      "chapter_number": 0,
+      "chapter_title": "Preface",
+      "char_count": 3094,
+      "is_content_page": true
+    },
+    {
+      "page": 14,
+      "chapter_number": 0,
+      "chapter_title": "Preface",
+      "char_count": 2510,
+      "is_content_page": true
+    },
+    {
+      "page": 15,
+      "chapter_number": 0,
+      "chapter_title": "Preface",
+      "char_count": 762,
+      "is_content_page": true
+    },
+    {
+      "page": 16,
+      "chapter_number": 0,
+      "chapter_title": "Preface",
+      "char_count": 87,
+      "is_content_page": false
+    },
+    {
+      "page": 17,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 1292,
+      "is_content_page": true
+    },
+    {
+      "page": 18,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 1675,
+      "is_content_page": true
+    },
+    {
+      "page": 19,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 3358,
+      "is_content_page": true
+    },
+    {
+      "page": 20,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 2060,
+      "is_content_page": true
+    },
+    {
+      "page": 21,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 3301,
+      "is_content_page": true
+    },
+    {
+      "page": 22,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 2313,
+      "is_content_page": true
+    },
+    {
+      "page": 23,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 2427,
+      "is_content_page": true
+    },
+    {
+      "page": 24,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 3413,
+      "is_content_page": true
+    },
+    {
+      "page": 25,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 3762,
+      "is_content_page": true
+    },
+    {
+      "page": 26,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 1016,
+      "is_content_page": true
+    },
+    {
+      "page": 27,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 1519,
+      "is_content_page": true
+    },
+    {
+      "page": 28,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 649,
+      "is_content_page": true
+    },
+    {
+      "page": 29,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 2742,
+      "is_content_page": true
+    },
+    {
+      "page": 30,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 2719,
+      "is_content_page": true
+    },
+    {
+      "page": 31,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 2088,
+      "is_content_page": true
+    },
+    {
+      "page": 32,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 2379,
+      "is_content_page": true
+    },
+    {
+      "page": 33,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 2650,
+      "is_content_page": true
+    },
+    {
+      "page": 34,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 2548,
+      "is_content_page": true
+    },
+    {
+      "page": 35,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 2149,
+      "is_content_page": true
+    },
+    {
+      "page": 36,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 2974,
+      "is_content_page": true
+    },
+    {
+      "page": 37,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 3279,
+      "is_content_page": true
+    },
+    {
+      "page": 38,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 1457,
+      "is_content_page": true
+    },
+    {
+      "page": 39,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 3435,
+      "is_content_page": true
+    },
+    {
+      "page": 40,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 2895,
+      "is_content_page": true
+    },
+    {
+      "page": 41,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 3202,
+      "is_content_page": true
+    },
+    {
+      "page": 42,
+      "chapter_number": 1,
+      "chapter_title": "Exploring College",
+      "char_count": 1287,
+      "is_content_page": true
+    },
+    {
+      "page": 43,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 1377,
+      "is_content_page": true
+    },
+    {
+      "page": 44,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2710,
+      "is_content_page": true
+    },
+    {
+      "page": 45,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 4013,
+      "is_content_page": true
+    },
+    {
+      "page": 46,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2306,
+      "is_content_page": true
+    },
+    {
+      "page": 47,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2431,
+      "is_content_page": true
+    },
+    {
+      "page": 48,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3109,
+      "is_content_page": true
+    },
+    {
+      "page": 49,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2545,
+      "is_content_page": true
+    },
+    {
+      "page": 50,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3396,
+      "is_content_page": true
+    },
+    {
+      "page": 51,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2562,
+      "is_content_page": true
+    },
+    {
+      "page": 52,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3939,
+      "is_content_page": true
+    },
+    {
+      "page": 53,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2348,
+      "is_content_page": true
+    },
+    {
+      "page": 54,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2111,
+      "is_content_page": true
+    },
+    {
+      "page": 55,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 1895,
+      "is_content_page": true
+    },
+    {
+      "page": 56,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2474,
+      "is_content_page": true
+    },
+    {
+      "page": 57,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2169,
+      "is_content_page": true
+    },
+    {
+      "page": 58,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3790,
+      "is_content_page": true
+    },
+    {
+      "page": 59,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 1792,
+      "is_content_page": true
+    },
+    {
+      "page": 60,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3064,
+      "is_content_page": true
+    },
+    {
+      "page": 61,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2358,
+      "is_content_page": true
+    },
+    {
+      "page": 62,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 327,
+      "is_content_page": true
+    },
+    {
+      "page": 63,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 905,
+      "is_content_page": true
+    },
+    {
+      "page": 64,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 1026,
+      "is_content_page": true
+    },
+    {
+      "page": 65,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 629,
+      "is_content_page": true
+    },
+    {
+      "page": 66,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2078,
+      "is_content_page": true
+    },
+    {
+      "page": 67,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 4118,
+      "is_content_page": true
+    },
+    {
+      "page": 68,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3311,
+      "is_content_page": true
+    },
+    {
+      "page": 69,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2914,
+      "is_content_page": true
+    },
+    {
+      "page": 70,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3103,
+      "is_content_page": true
+    },
+    {
+      "page": 71,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3113,
+      "is_content_page": true
+    },
+    {
+      "page": 72,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3275,
+      "is_content_page": true
+    },
+    {
+      "page": 73,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3766,
+      "is_content_page": true
+    },
+    {
+      "page": 74,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3279,
+      "is_content_page": true
+    },
+    {
+      "page": 75,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2759,
+      "is_content_page": true
+    },
+    {
+      "page": 76,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3641,
+      "is_content_page": true
+    },
+    {
+      "page": 77,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3890,
+      "is_content_page": true
+    },
+    {
+      "page": 78,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2217,
+      "is_content_page": true
+    },
+    {
+      "page": 79,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 1866,
+      "is_content_page": true
+    },
+    {
+      "page": 80,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 3834,
+      "is_content_page": true
+    },
+    {
+      "page": 81,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 2880,
+      "is_content_page": true
+    },
+    {
+      "page": 82,
+      "chapter_number": 2,
+      "chapter_title": "Knowing Yourself as a Learner",
+      "char_count": 1288,
+      "is_content_page": true
+    },
+    {
+      "page": 83,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1368,
+      "is_content_page": true
+    },
+    {
+      "page": 84,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 3051,
+      "is_content_page": true
+    },
+    {
+      "page": 85,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 4064,
+      "is_content_page": true
+    },
+    {
+      "page": 86,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2083,
+      "is_content_page": true
+    },
+    {
+      "page": 87,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2218,
+      "is_content_page": true
+    },
+    {
+      "page": 88,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1328,
+      "is_content_page": true
+    },
+    {
+      "page": 89,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1043,
+      "is_content_page": true
+    },
+    {
+      "page": 90,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2284,
+      "is_content_page": true
+    },
+    {
+      "page": 91,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1578,
+      "is_content_page": true
+    },
+    {
+      "page": 92,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2360,
+      "is_content_page": true
+    },
+    {
+      "page": 93,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2610,
+      "is_content_page": true
+    },
+    {
+      "page": 94,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2808,
+      "is_content_page": true
+    },
+    {
+      "page": 95,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1409,
+      "is_content_page": true
+    },
+    {
+      "page": 96,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2343,
+      "is_content_page": true
+    },
+    {
+      "page": 97,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2406,
+      "is_content_page": true
+    },
+    {
+      "page": 98,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 3325,
+      "is_content_page": true
+    },
+    {
+      "page": 99,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2994,
+      "is_content_page": true
+    },
+    {
+      "page": 100,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2375,
+      "is_content_page": true
+    },
+    {
+      "page": 101,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2149,
+      "is_content_page": true
+    },
+    {
+      "page": 102,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2373,
+      "is_content_page": true
+    },
+    {
+      "page": 103,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1949,
+      "is_content_page": true
+    },
+    {
+      "page": 104,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 3873,
+      "is_content_page": true
+    },
+    {
+      "page": 105,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1404,
+      "is_content_page": true
+    },
+    {
+      "page": 106,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1129,
+      "is_content_page": true
+    },
+    {
+      "page": 107,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2515,
+      "is_content_page": true
+    },
+    {
+      "page": 108,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 3474,
+      "is_content_page": true
+    },
+    {
+      "page": 109,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1701,
+      "is_content_page": true
+    },
+    {
+      "page": 110,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 3788,
+      "is_content_page": true
+    },
+    {
+      "page": 111,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2454,
+      "is_content_page": true
+    },
+    {
+      "page": 112,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 4005,
+      "is_content_page": true
+    },
+    {
+      "page": 113,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1799,
+      "is_content_page": true
+    },
+    {
+      "page": 114,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1901,
+      "is_content_page": true
+    },
+    {
+      "page": 115,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 302,
+      "is_content_page": true
+    },
+    {
+      "page": 116,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1931,
+      "is_content_page": true
+    },
+    {
+      "page": 117,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1936,
+      "is_content_page": true
+    },
+    {
+      "page": 118,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2815,
+      "is_content_page": true
+    },
+    {
+      "page": 119,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 1079,
+      "is_content_page": true
+    },
+    {
+      "page": 120,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2333,
+      "is_content_page": true
+    },
+    {
+      "page": 121,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2679,
+      "is_content_page": true
+    },
+    {
+      "page": 122,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2251,
+      "is_content_page": true
+    },
+    {
+      "page": 123,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 2373,
+      "is_content_page": true
+    },
+    {
+      "page": 124,
+      "chapter_number": 3,
+      "chapter_title": "Managing Your Time and Priorities",
+      "char_count": 745,
+      "is_content_page": true
+    },
+    {
+      "page": 125,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 1276,
+      "is_content_page": true
+    },
+    {
+      "page": 126,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 3652,
+      "is_content_page": true
+    },
+    {
+      "page": 127,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 1976,
+      "is_content_page": true
+    },
+    {
+      "page": 128,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 1431,
+      "is_content_page": true
+    },
+    {
+      "page": 129,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 1987,
+      "is_content_page": true
+    },
+    {
+      "page": 130,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 3213,
+      "is_content_page": true
+    },
+    {
+      "page": 131,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 1789,
+      "is_content_page": true
+    },
+    {
+      "page": 132,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 1650,
+      "is_content_page": true
+    },
+    {
+      "page": 133,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2199,
+      "is_content_page": true
+    },
+    {
+      "page": 134,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 654,
+      "is_content_page": true
+    },
+    {
+      "page": 135,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2347,
+      "is_content_page": true
+    },
+    {
+      "page": 136,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2352,
+      "is_content_page": true
+    },
+    {
+      "page": 137,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2939,
+      "is_content_page": true
+    },
+    {
+      "page": 138,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2937,
+      "is_content_page": true
+    },
+    {
+      "page": 139,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2690,
+      "is_content_page": true
+    },
+    {
+      "page": 140,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2576,
+      "is_content_page": true
+    },
+    {
+      "page": 141,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 1699,
+      "is_content_page": true
+    },
+    {
+      "page": 142,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2203,
+      "is_content_page": true
+    },
+    {
+      "page": 143,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 3850,
+      "is_content_page": true
+    },
+    {
+      "page": 144,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2922,
+      "is_content_page": true
+    },
+    {
+      "page": 145,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2487,
+      "is_content_page": true
+    },
+    {
+      "page": 146,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 290,
+      "is_content_page": true
+    },
+    {
+      "page": 147,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2056,
+      "is_content_page": true
+    },
+    {
+      "page": 148,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 3187,
+      "is_content_page": true
+    },
+    {
+      "page": 149,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 3113,
+      "is_content_page": true
+    },
+    {
+      "page": 150,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 1317,
+      "is_content_page": true
+    },
+    {
+      "page": 151,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 249,
+      "is_content_page": true
+    },
+    {
+      "page": 152,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2761,
+      "is_content_page": true
+    },
+    {
+      "page": 153,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2422,
+      "is_content_page": true
+    },
+    {
+      "page": 154,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 4278,
+      "is_content_page": true
+    },
+    {
+      "page": 155,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2118,
+      "is_content_page": true
+    },
+    {
+      "page": 156,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 4309,
+      "is_content_page": true
+    },
+    {
+      "page": 157,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2820,
+      "is_content_page": true
+    },
+    {
+      "page": 158,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2392,
+      "is_content_page": true
+    },
+    {
+      "page": 159,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2663,
+      "is_content_page": true
+    },
+    {
+      "page": 160,
+      "chapter_number": 4,
+      "chapter_title": "Planning Your Academic Pathways",
+      "char_count": 2973,
+      "is_content_page": true
+    },
+    {
+      "page": 161,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 1024,
+      "is_content_page": true
+    },
+    {
+      "page": 162,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 3762,
+      "is_content_page": true
+    },
+    {
+      "page": 163,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 2211,
+      "is_content_page": true
+    },
+    {
+      "page": 164,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 2208,
+      "is_content_page": true
+    },
+    {
+      "page": 165,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 3540,
+      "is_content_page": true
+    },
+    {
+      "page": 166,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 1973,
+      "is_content_page": true
+    },
+    {
+      "page": 167,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 3305,
+      "is_content_page": true
+    },
+    {
+      "page": 168,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 3045,
+      "is_content_page": true
+    },
+    {
+      "page": 169,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 1523,
+      "is_content_page": true
+    },
+    {
+      "page": 170,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 3337,
+      "is_content_page": true
+    },
+    {
+      "page": 171,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 2882,
+      "is_content_page": true
+    },
+    {
+      "page": 172,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 3932,
+      "is_content_page": true
+    },
+    {
+      "page": 173,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 4018,
+      "is_content_page": true
+    },
+    {
+      "page": 174,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 3897,
+      "is_content_page": true
+    },
+    {
+      "page": 175,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 2524,
+      "is_content_page": true
+    },
+    {
+      "page": 176,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 270,
+      "is_content_page": true
+    },
+    {
+      "page": 177,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 951,
+      "is_content_page": true
+    },
+    {
+      "page": 178,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 1993,
+      "is_content_page": true
+    },
+    {
+      "page": 179,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 2015,
+      "is_content_page": true
+    },
+    {
+      "page": 180,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 2082,
+      "is_content_page": true
+    },
+    {
+      "page": 181,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 2617,
+      "is_content_page": true
+    },
+    {
+      "page": 182,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 2282,
+      "is_content_page": true
+    },
+    {
+      "page": 183,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 1470,
+      "is_content_page": true
+    },
+    {
+      "page": 184,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 732,
+      "is_content_page": true
+    },
+    {
+      "page": 185,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 1840,
+      "is_content_page": true
+    },
+    {
+      "page": 186,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 1741,
+      "is_content_page": true
+    },
+    {
+      "page": 187,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 2282,
+      "is_content_page": true
+    },
+    {
+      "page": 188,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 1654,
+      "is_content_page": true
+    },
+    {
+      "page": 189,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 2078,
+      "is_content_page": true
+    },
+    {
+      "page": 190,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 3309,
+      "is_content_page": true
+    },
+    {
+      "page": 191,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 768,
+      "is_content_page": true
+    },
+    {
+      "page": 192,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 458,
+      "is_content_page": true
+    },
+    {
+      "page": 193,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 533,
+      "is_content_page": true
+    },
+    {
+      "page": 194,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 4253,
+      "is_content_page": true
+    },
+    {
+      "page": 195,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 2383,
+      "is_content_page": true
+    },
+    {
+      "page": 196,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 666,
+      "is_content_page": true
+    },
+    {
+      "page": 197,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 3245,
+      "is_content_page": true
+    },
+    {
+      "page": 198,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 3408,
+      "is_content_page": true
+    },
+    {
+      "page": 199,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 2374,
+      "is_content_page": true
+    },
+    {
+      "page": 200,
+      "chapter_number": 5,
+      "chapter_title": "Reading and Notetaking",
+      "char_count": 364,
+      "is_content_page": true
+    },
+    {
+      "page": 201,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 1241,
+      "is_content_page": true
+    },
+    {
+      "page": 202,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 3102,
+      "is_content_page": true
+    },
+    {
+      "page": 203,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 2883,
+      "is_content_page": true
+    },
+    {
+      "page": 204,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 2603,
+      "is_content_page": true
+    },
+    {
+      "page": 205,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 2226,
+      "is_content_page": true
+    },
+    {
+      "page": 206,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 3853,
+      "is_content_page": true
+    },
+    {
+      "page": 207,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 3123,
+      "is_content_page": true
+    },
+    {
+      "page": 208,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 3464,
+      "is_content_page": true
+    },
+    {
+      "page": 209,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 2545,
+      "is_content_page": true
+    },
+    {
+      "page": 210,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 308,
+      "is_content_page": true
+    },
+    {
+      "page": 211,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 1767,
+      "is_content_page": true
+    },
+    {
+      "page": 212,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 2501,
+      "is_content_page": true
+    },
+    {
+      "page": 213,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 3231,
+      "is_content_page": true
+    },
+    {
+      "page": 214,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 2880,
+      "is_content_page": true
+    },
+    {
+      "page": 215,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 3109,
+      "is_content_page": true
+    },
+    {
+      "page": 216,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 1896,
+      "is_content_page": true
+    },
+    {
+      "page": 217,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 2812,
+      "is_content_page": true
+    },
+    {
+      "page": 218,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 1852,
+      "is_content_page": true
+    },
+    {
+      "page": 219,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 2830,
+      "is_content_page": true
+    },
+    {
+      "page": 220,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 3646,
+      "is_content_page": true
+    },
+    {
+      "page": 221,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 2790,
+      "is_content_page": true
+    },
+    {
+      "page": 222,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 899,
+      "is_content_page": true
+    },
+    {
+      "page": 223,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 3495,
+      "is_content_page": true
+    },
+    {
+      "page": 224,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 3335,
+      "is_content_page": true
+    },
+    {
+      "page": 225,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 3106,
+      "is_content_page": true
+    },
+    {
+      "page": 226,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 3268,
+      "is_content_page": true
+    },
+    {
+      "page": 227,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 2519,
+      "is_content_page": true
+    },
+    {
+      "page": 228,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 3906,
+      "is_content_page": true
+    },
+    {
+      "page": 229,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 1759,
+      "is_content_page": true
+    },
+    {
+      "page": 230,
+      "chapter_number": 6,
+      "chapter_title": "Studying, Memory, and Test Taking",
+      "char_count": 127,
+      "is_content_page": true
+    },
+    {
+      "page": 231,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 1248,
+      "is_content_page": true
+    },
+    {
+      "page": 232,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 3563,
+      "is_content_page": true
+    },
+    {
+      "page": 233,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 2892,
+      "is_content_page": true
+    },
+    {
+      "page": 234,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 3357,
+      "is_content_page": true
+    },
+    {
+      "page": 235,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 1008,
+      "is_content_page": true
+    },
+    {
+      "page": 236,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 748,
+      "is_content_page": true
+    },
+    {
+      "page": 237,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 2043,
+      "is_content_page": true
+    },
+    {
+      "page": 238,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 2036,
+      "is_content_page": true
+    },
+    {
+      "page": 239,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 2669,
+      "is_content_page": true
+    },
+    {
+      "page": 240,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 4205,
+      "is_content_page": true
+    },
+    {
+      "page": 241,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 3356,
+      "is_content_page": true
+    },
+    {
+      "page": 242,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 2075,
+      "is_content_page": true
+    },
+    {
+      "page": 243,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 2340,
+      "is_content_page": true
+    },
+    {
+      "page": 244,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 3895,
+      "is_content_page": true
+    },
+    {
+      "page": 245,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 1898,
+      "is_content_page": true
+    },
+    {
+      "page": 246,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 4148,
+      "is_content_page": true
+    },
+    {
+      "page": 247,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 3125,
+      "is_content_page": true
+    },
+    {
+      "page": 248,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 2639,
+      "is_content_page": true
+    },
+    {
+      "page": 249,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 3149,
+      "is_content_page": true
+    },
+    {
+      "page": 250,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 3127,
+      "is_content_page": true
+    },
+    {
+      "page": 251,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 2599,
+      "is_content_page": true
+    },
+    {
+      "page": 252,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 3403,
+      "is_content_page": true
+    },
+    {
+      "page": 253,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 3031,
+      "is_content_page": true
+    },
+    {
+      "page": 254,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 2596,
+      "is_content_page": true
+    },
+    {
+      "page": 255,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 3082,
+      "is_content_page": true
+    },
+    {
+      "page": 256,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 3457,
+      "is_content_page": true
+    },
+    {
+      "page": 257,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 3670,
+      "is_content_page": true
+    },
+    {
+      "page": 258,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 1068,
+      "is_content_page": true
+    },
+    {
+      "page": 259,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 1259,
+      "is_content_page": true
+    },
+    {
+      "page": 260,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 2902,
+      "is_content_page": true
+    },
+    {
+      "page": 261,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 4005,
+      "is_content_page": true
+    },
+    {
+      "page": 262,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 2762,
+      "is_content_page": true
+    },
+    {
+      "page": 263,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 1728,
+      "is_content_page": true
+    },
+    {
+      "page": 264,
+      "chapter_number": 7,
+      "chapter_title": "Thinking",
+      "char_count": 635,
+      "is_content_page": true
+    },
+    {
+      "page": 265,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 1529,
+      "is_content_page": true
+    },
+    {
+      "page": 266,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 2797,
+      "is_content_page": true
+    },
+    {
+      "page": 267,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 1921,
+      "is_content_page": true
+    },
+    {
+      "page": 268,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 2619,
+      "is_content_page": true
+    },
+    {
+      "page": 269,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 3853,
+      "is_content_page": true
+    },
+    {
+      "page": 270,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 3129,
+      "is_content_page": true
+    },
+    {
+      "page": 271,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 3024,
+      "is_content_page": true
+    },
+    {
+      "page": 272,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 1733,
+      "is_content_page": true
+    },
+    {
+      "page": 273,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 3318,
+      "is_content_page": true
+    },
+    {
+      "page": 274,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 3053,
+      "is_content_page": true
+    },
+    {
+      "page": 275,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 1466,
+      "is_content_page": true
+    },
+    {
+      "page": 276,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 1366,
+      "is_content_page": true
+    },
+    {
+      "page": 277,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 2546,
+      "is_content_page": true
+    },
+    {
+      "page": 278,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 1875,
+      "is_content_page": true
+    },
+    {
+      "page": 279,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 1999,
+      "is_content_page": true
+    },
+    {
+      "page": 280,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 2792,
+      "is_content_page": true
+    },
+    {
+      "page": 281,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 2090,
+      "is_content_page": true
+    },
+    {
+      "page": 282,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 2655,
+      "is_content_page": true
+    },
+    {
+      "page": 283,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 815,
+      "is_content_page": true
+    },
+    {
+      "page": 284,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 1167,
+      "is_content_page": true
+    },
+    {
+      "page": 285,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 3135,
+      "is_content_page": true
+    },
+    {
+      "page": 286,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 2493,
+      "is_content_page": true
+    },
+    {
+      "page": 287,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 3771,
+      "is_content_page": true
+    },
+    {
+      "page": 288,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 2723,
+      "is_content_page": true
+    },
+    {
+      "page": 289,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 2105,
+      "is_content_page": true
+    },
+    {
+      "page": 290,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 4051,
+      "is_content_page": true
+    },
+    {
+      "page": 291,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 2038,
+      "is_content_page": true
+    },
+    {
+      "page": 292,
+      "chapter_number": 8,
+      "chapter_title": "Communicating",
+      "char_count": 1581,
+      "is_content_page": true
+    },
+    {
+      "page": 293,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 1304,
+      "is_content_page": true
+    },
+    {
+      "page": 294,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2175,
+      "is_content_page": true
+    },
+    {
+      "page": 295,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2005,
+      "is_content_page": true
+    },
+    {
+      "page": 296,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2483,
+      "is_content_page": true
+    },
+    {
+      "page": 297,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 654,
+      "is_content_page": true
+    },
+    {
+      "page": 298,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2384,
+      "is_content_page": true
+    },
+    {
+      "page": 299,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 3005,
+      "is_content_page": true
+    },
+    {
+      "page": 300,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2482,
+      "is_content_page": true
+    },
+    {
+      "page": 301,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2399,
+      "is_content_page": true
+    },
+    {
+      "page": 302,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2185,
+      "is_content_page": true
+    },
+    {
+      "page": 303,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2530,
+      "is_content_page": true
+    },
+    {
+      "page": 304,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 4187,
+      "is_content_page": true
+    },
+    {
+      "page": 305,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2269,
+      "is_content_page": true
+    },
+    {
+      "page": 306,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2748,
+      "is_content_page": true
+    },
+    {
+      "page": 307,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 3070,
+      "is_content_page": true
+    },
+    {
+      "page": 308,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 1889,
+      "is_content_page": true
+    },
+    {
+      "page": 309,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2514,
+      "is_content_page": true
+    },
+    {
+      "page": 310,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 3639,
+      "is_content_page": true
+    },
+    {
+      "page": 311,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2098,
+      "is_content_page": true
+    },
+    {
+      "page": 312,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2504,
+      "is_content_page": true
+    },
+    {
+      "page": 313,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 1406,
+      "is_content_page": true
+    },
+    {
+      "page": 314,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 1499,
+      "is_content_page": true
+    },
+    {
+      "page": 315,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2803,
+      "is_content_page": true
+    },
+    {
+      "page": 316,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 3073,
+      "is_content_page": true
+    },
+    {
+      "page": 317,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 3208,
+      "is_content_page": true
+    },
+    {
+      "page": 318,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2128,
+      "is_content_page": true
+    },
+    {
+      "page": 319,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2701,
+      "is_content_page": true
+    },
+    {
+      "page": 320,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 3636,
+      "is_content_page": true
+    },
+    {
+      "page": 321,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 3718,
+      "is_content_page": true
+    },
+    {
+      "page": 322,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2559,
+      "is_content_page": true
+    },
+    {
+      "page": 323,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 3218,
+      "is_content_page": true
+    },
+    {
+      "page": 324,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 3189,
+      "is_content_page": true
+    },
+    {
+      "page": 325,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2834,
+      "is_content_page": true
+    },
+    {
+      "page": 326,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 3079,
+      "is_content_page": true
+    },
+    {
+      "page": 327,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 3471,
+      "is_content_page": true
+    },
+    {
+      "page": 328,
+      "chapter_number": 9,
+      "chapter_title": "Understanding Civility and Cultural Competence",
+      "char_count": 2311,
+      "is_content_page": true
+    },
+    {
+      "page": 329,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 1359,
+      "is_content_page": true
+    },
+    {
+      "page": 330,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 3235,
+      "is_content_page": true
+    },
+    {
+      "page": 331,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2857,
+      "is_content_page": true
+    },
+    {
+      "page": 332,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 1093,
+      "is_content_page": true
+    },
+    {
+      "page": 333,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 917,
+      "is_content_page": true
+    },
+    {
+      "page": 334,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 1746,
+      "is_content_page": true
+    },
+    {
+      "page": 335,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 1234,
+      "is_content_page": true
+    },
+    {
+      "page": 336,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 1875,
+      "is_content_page": true
+    },
+    {
+      "page": 337,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2704,
+      "is_content_page": true
+    },
+    {
+      "page": 338,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2290,
+      "is_content_page": true
+    },
+    {
+      "page": 339,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 1958,
+      "is_content_page": true
+    },
+    {
+      "page": 340,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 758,
+      "is_content_page": true
+    },
+    {
+      "page": 341,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 676,
+      "is_content_page": true
+    },
+    {
+      "page": 342,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2556,
+      "is_content_page": true
+    },
+    {
+      "page": 343,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 1445,
+      "is_content_page": true
+    },
+    {
+      "page": 344,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 3131,
+      "is_content_page": true
+    },
+    {
+      "page": 345,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 860,
+      "is_content_page": true
+    },
+    {
+      "page": 346,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2917,
+      "is_content_page": true
+    },
+    {
+      "page": 347,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 507,
+      "is_content_page": true
+    },
+    {
+      "page": 348,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2350,
+      "is_content_page": true
+    },
+    {
+      "page": 349,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2370,
+      "is_content_page": true
+    },
+    {
+      "page": 350,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 3474,
+      "is_content_page": true
+    },
+    {
+      "page": 351,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 1558,
+      "is_content_page": true
+    },
+    {
+      "page": 352,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 3413,
+      "is_content_page": true
+    },
+    {
+      "page": 353,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2655,
+      "is_content_page": true
+    },
+    {
+      "page": 354,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2612,
+      "is_content_page": true
+    },
+    {
+      "page": 355,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2957,
+      "is_content_page": true
+    },
+    {
+      "page": 356,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 3345,
+      "is_content_page": true
+    },
+    {
+      "page": 357,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 1532,
+      "is_content_page": true
+    },
+    {
+      "page": 358,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2318,
+      "is_content_page": true
+    },
+    {
+      "page": 359,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2638,
+      "is_content_page": true
+    },
+    {
+      "page": 360,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2856,
+      "is_content_page": true
+    },
+    {
+      "page": 361,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 1914,
+      "is_content_page": true
+    },
+    {
+      "page": 362,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 3104,
+      "is_content_page": true
+    },
+    {
+      "page": 363,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 3550,
+      "is_content_page": true
+    },
+    {
+      "page": 364,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 3577,
+      "is_content_page": true
+    },
+    {
+      "page": 365,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2450,
+      "is_content_page": true
+    },
+    {
+      "page": 366,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 3057,
+      "is_content_page": true
+    },
+    {
+      "page": 367,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 789,
+      "is_content_page": true
+    },
+    {
+      "page": 368,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 251,
+      "is_content_page": true
+    },
+    {
+      "page": 369,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2432,
+      "is_content_page": true
+    },
+    {
+      "page": 370,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 1794,
+      "is_content_page": true
+    },
+    {
+      "page": 371,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 1949,
+      "is_content_page": true
+    },
+    {
+      "page": 372,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2736,
+      "is_content_page": true
+    },
+    {
+      "page": 373,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 2338,
+      "is_content_page": true
+    },
+    {
+      "page": 374,
+      "chapter_number": 10,
+      "chapter_title": "Understanding Financial literacy",
+      "char_count": 797,
+      "is_content_page": true
+    },
+    {
+      "page": 375,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 1379,
+      "is_content_page": true
+    },
+    {
+      "page": 376,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3576,
+      "is_content_page": true
+    },
+    {
+      "page": 377,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3300,
+      "is_content_page": true
+    },
+    {
+      "page": 378,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 2949,
+      "is_content_page": true
+    },
+    {
+      "page": 379,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 2649,
+      "is_content_page": true
+    },
+    {
+      "page": 380,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 1374,
+      "is_content_page": true
+    },
+    {
+      "page": 381,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3243,
+      "is_content_page": true
+    },
+    {
+      "page": 382,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 4053,
+      "is_content_page": true
+    },
+    {
+      "page": 383,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 2436,
+      "is_content_page": true
+    },
+    {
+      "page": 384,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 2796,
+      "is_content_page": true
+    },
+    {
+      "page": 385,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3555,
+      "is_content_page": true
+    },
+    {
+      "page": 386,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 2520,
+      "is_content_page": true
+    },
+    {
+      "page": 387,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 2142,
+      "is_content_page": true
+    },
+    {
+      "page": 388,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3552,
+      "is_content_page": true
+    },
+    {
+      "page": 389,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 2759,
+      "is_content_page": true
+    },
+    {
+      "page": 390,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3430,
+      "is_content_page": true
+    },
+    {
+      "page": 391,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3269,
+      "is_content_page": true
+    },
+    {
+      "page": 392,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 2389,
+      "is_content_page": true
+    },
+    {
+      "page": 393,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 1996,
+      "is_content_page": true
+    },
+    {
+      "page": 394,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 894,
+      "is_content_page": true
+    },
+    {
+      "page": 395,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 1539,
+      "is_content_page": true
+    },
+    {
+      "page": 396,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3376,
+      "is_content_page": true
+    },
+    {
+      "page": 397,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3156,
+      "is_content_page": true
+    },
+    {
+      "page": 398,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 2361,
+      "is_content_page": true
+    },
+    {
+      "page": 399,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3706,
+      "is_content_page": true
+    },
+    {
+      "page": 400,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 2204,
+      "is_content_page": true
+    },
+    {
+      "page": 401,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 2514,
+      "is_content_page": true
+    },
+    {
+      "page": 402,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 2095,
+      "is_content_page": true
+    },
+    {
+      "page": 403,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3100,
+      "is_content_page": true
+    },
+    {
+      "page": 404,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3701,
+      "is_content_page": true
+    },
+    {
+      "page": 405,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3553,
+      "is_content_page": true
+    },
+    {
+      "page": 406,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3382,
+      "is_content_page": true
+    },
+    {
+      "page": 407,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 2448,
+      "is_content_page": true
+    },
+    {
+      "page": 408,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3064,
+      "is_content_page": true
+    },
+    {
+      "page": 409,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 1712,
+      "is_content_page": true
+    },
+    {
+      "page": 410,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 3120,
+      "is_content_page": true
+    },
+    {
+      "page": 411,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 986,
+      "is_content_page": true
+    },
+    {
+      "page": 412,
+      "chapter_number": 11,
+      "chapter_title": "Engaging in a Healthy Lifestyle",
+      "char_count": 126,
+      "is_content_page": true
+    },
+    {
+      "page": 413,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 1203,
+      "is_content_page": true
+    },
+    {
+      "page": 414,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 2488,
+      "is_content_page": true
+    },
+    {
+      "page": 415,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 2846,
+      "is_content_page": true
+    },
+    {
+      "page": 416,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 1558,
+      "is_content_page": true
+    },
+    {
+      "page": 417,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 1254,
+      "is_content_page": true
+    },
+    {
+      "page": 418,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3880,
+      "is_content_page": true
+    },
+    {
+      "page": 419,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3268,
+      "is_content_page": true
+    },
+    {
+      "page": 420,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 1702,
+      "is_content_page": true
+    },
+    {
+      "page": 421,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3432,
+      "is_content_page": true
+    },
+    {
+      "page": 422,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 2757,
+      "is_content_page": true
+    },
+    {
+      "page": 423,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 2904,
+      "is_content_page": true
+    },
+    {
+      "page": 424,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 2709,
+      "is_content_page": true
+    },
+    {
+      "page": 425,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 933,
+      "is_content_page": true
+    },
+    {
+      "page": 426,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 1282,
+      "is_content_page": true
+    },
+    {
+      "page": 427,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3907,
+      "is_content_page": true
+    },
+    {
+      "page": 428,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 2921,
+      "is_content_page": true
+    },
+    {
+      "page": 429,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3792,
+      "is_content_page": true
+    },
+    {
+      "page": 430,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3421,
+      "is_content_page": true
+    },
+    {
+      "page": 431,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 2638,
+      "is_content_page": true
+    },
+    {
+      "page": 432,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 1974,
+      "is_content_page": true
+    },
+    {
+      "page": 433,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 2862,
+      "is_content_page": true
+    },
+    {
+      "page": 434,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 4424,
+      "is_content_page": true
+    },
+    {
+      "page": 435,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3334,
+      "is_content_page": true
+    },
+    {
+      "page": 436,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 979,
+      "is_content_page": true
+    },
+    {
+      "page": 437,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3776,
+      "is_content_page": true
+    },
+    {
+      "page": 438,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3535,
+      "is_content_page": true
+    },
+    {
+      "page": 439,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 2510,
+      "is_content_page": true
+    },
+    {
+      "page": 440,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 2485,
+      "is_content_page": true
+    },
+    {
+      "page": 441,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 2143,
+      "is_content_page": true
+    },
+    {
+      "page": 442,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 4048,
+      "is_content_page": true
+    },
+    {
+      "page": 443,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3532,
+      "is_content_page": true
+    },
+    {
+      "page": 444,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 1243,
+      "is_content_page": true
+    },
+    {
+      "page": 445,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3271,
+      "is_content_page": true
+    },
+    {
+      "page": 446,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 4270,
+      "is_content_page": true
+    },
+    {
+      "page": 447,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3239,
+      "is_content_page": true
+    },
+    {
+      "page": 448,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3433,
+      "is_content_page": true
+    },
+    {
+      "page": 449,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3679,
+      "is_content_page": true
+    },
+    {
+      "page": 450,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 4189,
+      "is_content_page": true
+    },
+    {
+      "page": 451,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3224,
+      "is_content_page": true
+    },
+    {
+      "page": 452,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 3417,
+      "is_content_page": true
+    },
+    {
+      "page": 453,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 457,
+      "is_content_page": true
+    },
+    {
+      "page": 454,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 94,
+      "is_content_page": false
+    },
+    {
+      "page": 455,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 2572,
+      "is_content_page": true
+    },
+    {
+      "page": 456,
+      "chapter_number": 12,
+      "chapter_title": "Planning for Your Future",
+      "char_count": 94,
+      "is_content_page": false
+    },
+    {
+      "page": 457,
+      "chapter_number": 13,
+      "chapter_title": "Appendix: Answer Key",
+      "char_count": 837,
+      "is_content_page": false
+    },
+    {
+      "page": 458,
+      "chapter_number": 13,
+      "chapter_title": "Appendix: Answer Key",
+      "char_count": 1780,
+      "is_content_page": false
+    },
+    {
+      "page": 459,
+      "chapter_number": 13,
+      "chapter_title": "Appendix: Answer Key",
+      "char_count": 783,
+      "is_content_page": false
+    },
+    {
+      "page": 460,
+      "chapter_number": 13,
+      "chapter_title": "Appendix: Answer Key",
+      "char_count": 297,
+      "is_content_page": false
+    },
+    {
+      "page": 461,
+      "chapter_number": 13,
+      "chapter_title": "Appendix: Answer Key",
+      "char_count": 138,
+      "is_content_page": false
+    },
+    {
+      "page": 462,
+      "chapter_number": 13,
+      "chapter_title": "Appendix: Answer Key",
+      "char_count": 689,
+      "is_content_page": false
+    },
+    {
+      "page": 463,
+      "chapter_number": 13,
+      "chapter_title": "Appendix: Answer Key",
+      "char_count": 346,
+      "is_content_page": false
+    },
+    {
+      "page": 464,
+      "chapter_number": 13,
+      "chapter_title": "Appendix: Answer Key",
+      "char_count": 94,
+      "is_content_page": false
+    },
+    {
+      "page": 465,
+      "chapter_number": 14,
+      "chapter_title": "Index",
+      "char_count": 1668,
+      "is_content_page": false
+    }
+  ]
+}

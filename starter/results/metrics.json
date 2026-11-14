@@ -1,0 +1,110 @@
+{
+  "model": "all-MiniLM-L6-v2",
+  "dimensions": 384,
+  "stats": {
+    "A": {
+      "chunk_count": 1638,
+      "ingest_time_sec": 87.41
+    },
+    "B": {
+      "chunk_count": 1067,
+      "ingest_time_sec": 70.53
+    },
+    "C": {
+      "chunk_count": 1067,
+      "ingest_time_sec": 70.53
+    }
+  },
+  "metrics": {
+    "A": {
+      "dev": {
+        "total": 19,
+        "hit1_count": 6,
+        "hit1_fraction": "6/19",
+        "hit1_percentage": 31.58,
+        "hit3_count": 12,
+        "hit3_fraction": "12/19",
+        "hit3_percentage": 63.16
+      },
+      "test": {
+        "total": 6,
+        "hit1_count": 2,
+        "hit1_fraction": "2/6",
+        "hit1_percentage": 33.33,
+        "hit3_count": 3,
+        "hit3_fraction": "3/6",
+        "hit3_percentage": 50.0
+      },
+      "all": {
+        "total": 25,
+        "hit1_count": 8,
+        "hit1_fraction": "8/25",
+        "hit1_percentage": 32.0,
+        "hit3_count": 15,
+        "hit3_fraction": "15/25",
+        "hit3_percentage": 60.0
+      },
+      "benchmark_time_sec": 3.52
+    },
+    "B": {
+      "dev": {
+        "total": 19,
+        "hit1_count": 7,
+        "hit1_fraction": "7/19",
+        "hit1_percentage": 36.84,
+        "hit3_count": 13,
+        "hit3_fraction": "13/19",
+        "hit3_percentage": 68.42
+      },
+      "test": {
+        "total": 6,
+        "hit1_count": 2,
+        "hit1_fraction": "2/6",
+        "hit1_percentage": 33.33,
+        "hit3_count": 3,
+        "hit3_fraction": "3/6",
+        "hit3_percentage": 50.0
+      },
+      "all": {
+        "total": 25,
+        "hit1_count": 9,
+        "hit1_fraction": "9/25",
+        "hit1_percentage": 36.0,
+        "hit3_count": 16,
+        "hit3_fraction": "16/25",
+        "hit3_percentage": 64.0
+      },
+      "benchmark_time_sec": 2.21
+    },
+    "C": {
+      "dev": {
+        "total": 19,
+        "hit1_count": 7,
+        "hit1_fraction": "7/19",
+        "hit1_percentage": 36.84,
+        "hit3_count": 13,
+        "hit3_fraction": "13/19",
+        "hit3_percentage": 68.42
+      },
+      "test": {
+        "total": 6,
+        "hit1_count": 2,
+        "hit1_fraction": "2/6",
+        "hit1_percentage": 33.33,
+        "hit3_count": 4,
+        "hit3_fraction": "4/6",
+        "hit3_percentage": 66.67
+      },
+      "all": {
+        "total": 25,
+        "hit1_count": 9,
+        "hit1_fraction": "9/25",
+        "hit1_percentage": 36.0,
+        "hit3_count": 17,
+        "hit3_fraction": "17/25",
+        "hit3_percentage": 68.0
+      },
+      "benchmark_time_sec": 2.29
+    }
+  }
+}

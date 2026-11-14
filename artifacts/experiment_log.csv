@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,source;page;chapter,none,all-MiniLM-L6-v2 (384d),"Fixed-size chunks may split sentences across boundaries, reducing coherence and evidence recall.",6/19,12/19,2/6,3/6,"Chunks: 1638, Ingest: 87.41s, Cost: 0 USD"
+B,by_paragraph,800,0,source;page;chapter,none,all-MiniLM-L6-v2 (384d),"Paragraph-based chunking preserves complete semantic units and sentences, improving coherence and grounding.",7/19,13/19,2/6,3/6,"Chunks: 1067, Ingest: 70.53s, Cost: 0 USD"
+C,by_paragraph,800,0,source;page;chapter,chapter (when specified),all-MiniLM-L6-v2 (384d),"Metadata filtering restricts retrieval to target chapter, preventing cross-chapter distraction on filter questions.",7/19,13/19,2/6,4/6,"Reuses B chunks (1067), SQL JSONB chapter filtering, Cost: 0 USD"
