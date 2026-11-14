@@ -94,3 +94,22 @@ def load_pdf(path: Path, document_id: str, source: str, start_page: int | None =
         logger.info("Found %d blank/minimal text pages: %s", len(empty_pages), empty_pages[:10])
 
     return pages
+
+
+def save_pages_to_json(pages: list[DocumentPage], output_path: Path | str) -> None:
+    """Save extracted DocumentPage list to a JSON file."""
+    from dataclasses import asdict
+    p = Path(output_path)
+    p.parent.mkdir(parents=True, exist_ok=True)
+    with open(p, "w", encoding="utf-8") as f:
+        json.dump([asdict(page) for page in pages], f, ensure_ascii=False, indent=2)
+    logger.info("Saved %d parsed pages to %s", len(pages), p)
+
+
+def load_pages_from_json(json_path: Path | str) -> list[DocumentPage]:
+    """Load previously parsed DocumentPage list from a JSON file (cache)."""
+    p = Path(json_path)
+    with open(p, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    return [DocumentPage(**item) for item in data]
+

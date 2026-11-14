@@ -34,3 +34,4 @@ for qid in sorted(dense_traces.keys()):
 print("\n" + "=" * 50)
 print("Improved questions:", improved)
 print("Degraded questions (làm xấu kết quả):", degraded)
+
