@@ -5,4 +5,4 @@
 - Lớp: L3B
 - Chủ đề và corpus: Giáo trình OpenStax "College Success" (Giấy phép CC BY 4.0; 465 trang vật lý, 443 trang nội dung)
 - Repo bài nộp: https://github.com/lam2121/K5-L3B-DAY06-NguyenVanLam-2A202604115-DataIngestion
-- Commit chốt bài: main
+- Commit chốt bài: 9c4475d2e09173160378a05520df1b1d2919f1e9
