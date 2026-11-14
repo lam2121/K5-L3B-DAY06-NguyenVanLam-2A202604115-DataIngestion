@@ -25,6 +25,13 @@
   - **Số chiều (Dimensions)**: `384` chiều vector.
   - **Vector Store**: PostgreSQL 16 + pgvector `0.8.7` (chạy local qua Docker Compose tại cổng `127.0.0.1:55433`).
   - **Metric tìm kiếm**: Cosine Distance (`<=>` trong pgvector) với embedding vector được chuẩn hóa $L_2$ (`normalize_embeddings=True`).
+  - **Thư viện phụ thuộc (Ghi nhận đầy đủ trong requirements.txt)**:
+    - `psycopg[binary]==3.3.8`: Driver kết nối PostgreSQL và pgvector.
+    - `pypdf>=5,<7`: Đọc và trích xuất dữ liệu trang PDF giáo trình gốc.
+    - `python-dotenv>=1,<2`: Đọc biến môi trường `.env`.
+    - `sentence-transformers==6.3.0`: Mã hóa vector ngữ nghĩa cục bộ `all-MiniLM-L6-v2` ($0 chi phí).
+    - `rank-bm25==0.2.2`: Tìm kiếm từ khóa Sparse BM25 phục vụ phần mở rộng Hybrid Retrieval.
+    - `pymupdf>=2.1`: Render trang sách PDF chuẩn xác và tính tọa độ bounding box tô màu vàng cho `benchmark_viewer.html`.
   - **Lệnh chạy tái lập**:
     ```bash
     cd starter

@@ -66,6 +66,13 @@ python -m venv .venv
 # Cài đặt thư viện:
 pip install -r requirements.txt
 ```
+*Các gói thư viện trong `requirements.txt`:*
+- `psycopg[binary]`: Driver kết nối PostgreSQL + pgvector.
+- `pypdf`: Đọc và phân giải văn bản PDF.
+- `python-dotenv`: Quản lý biến môi trường.
+- `sentence-transformers`: Mô hình mã hóa ngữ nghĩa `all-MiniLM-L6-v2` (384d).
+- `rank-bm25`: Tìm kiếm từ khóa BM25 cho module mở rộng Hybrid Retrieval.
+- `pymupdf`: Render trang sách PDF thật và tính tọa độ bounding box cho `benchmark_viewer.html`.
 
 ### 3. Khởi động PostgreSQL + pgvector
 ```bash
