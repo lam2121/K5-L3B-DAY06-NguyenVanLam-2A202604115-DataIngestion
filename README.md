@@ -44,4 +44,56 @@ Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **1
 | Quy tắc sử dụng dữ liệu, AI và API | [RULES.md](RULES.md) |
 | Cách nộp bài | [SUBMISSION.md](SUBMISSION.md) |
 
-[data/format-example.json](data/format-example.json) chỉ minh họa định dạng, không phải corpus đủ điều kiện. Phần xử lý và benchmark do bạn tự hiện thực; không bắt buộc xây chatbot.
+
+## Hướng dẫn tái lập thực nghiệm (Setup & Run Guide)
+
+### 1. Yêu cầu môi trường
+- Python 3.11 – 3.14
+- Docker Desktop hoặc Docker Engine + Compose
+- Hệ điều hành: Windows / Linux / macOS
+
+### 2. Cài đặt và kích hoạt môi trường
+```bash
+cd starter
+# Tạo và kích hoạt virtual environment
+python -m venv .venv
+
+# Windows PowerShell:
+.venv\Scripts\Activate.ps1
+# macOS/Linux:
+# source .venv/bin/activate
+
+# Cài đặt thư viện:
+pip install -r requirements.txt
+```
+
+### 3. Khởi động PostgreSQL + pgvector
+```bash
+# Bật database local (cổng 55433)
+docker compose -p day6_student_starter up -d --wait
+
+# Kiểm tra kết nối:
+python scripts/check_setup.py
+```
+
+### 4. Chạy toàn bộ Pipeline thực nghiệm
+```bash
+# Chạy nạp dữ liệu, sinh vector, đánh chỉ mục và chạy benchmark 25 câu hỏi:
+python -m src.run
+```
+Lệnh trên sẽ tự động:
+1. Đọc và chuẩn hóa dữ liệu từ `starter/data/College_Success_web.pdf`.
+2. Tạo chunks cho Strategy A (`fixed_size`), Strategy B (`by_paragraph`), và Strategy C (`by_paragraph` + `metadata filter`).
+3. Mã hóa vector 384 chiều bằng mô hình local `all-MiniLM-L6-v2`.
+4. Lưu và đánh chỉ mục trên PostgreSQL + pgvector.
+5. Chạy đánh giá Top-3 trên bộ 25 câu hỏi benchmark (`starter/data/benchmark.json`).
+6. Xuất traces ra `starter/results/traces.json` và cập nhật `artifacts/experiment_log.csv`.
+
+### 5. Cấu trúc bài nộp
+- `STUDENT.md`: Thông tin học viên (Nguyễn Văn Lâm - 2A202604115 - L3B).
+- `data/manifest.json`: Manifest toàn bộ 465 trang sách *College Success* (CC BY 4.0).
+- `benchmark/benchmark.json`: Bộ 25 câu hỏi benchmark (19 dev / 6 test).
+- `starter/src/`: Toàn bộ mã nguồn hoàn chỉnh của pipeline (`ingestion.py`, `chunking.py`, `embeddings.py`, `store.py`, `evaluation.py`, `run.py`).
+- `results/`: Kết quả traces (`traces.json`), chỉ số (`metrics.json`), và nhãn audit thủ công (`audit_labels.json`).
+- `artifacts/experiment_log.csv`: Nhật ký thực nghiệm 3 chiến lược.
+- `report/individual/2A202604115_NguyenVanLam.md`: Báo cáo cá nhân chi tiết theo chuẩn mẫu.
