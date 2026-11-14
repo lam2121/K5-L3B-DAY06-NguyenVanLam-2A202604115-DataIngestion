@@ -95,5 +95,6 @@ Lệnh trên sẽ tự động:
 - `benchmark/benchmark.json`: Bộ 25 câu hỏi benchmark (19 dev / 6 test).
 - `starter/src/`: Toàn bộ mã nguồn hoàn chỉnh của pipeline (`ingestion.py`, `chunking.py`, `embeddings.py`, `store.py`, `evaluation.py`, `run.py`).
 - `results/`: Kết quả traces (`traces.json`), chỉ số (`metrics.json`), và nhãn audit thủ công (`audit_labels.json`).
+- `benchmark_viewer.html`: Giao diện web HTML tra cứu toàn bộ 25 câu hỏi benchmark, so sánh đồng thời 3 chiến lược truy xuất và tô màu vàng dẫn chứng thực tế trong file PDF.
 - `artifacts/experiment_log.csv`: Nhật ký thực nghiệm 3 chiến lược.
 - `report/individual/2A202604115_NguyenVanLam.md`: Báo cáo cá nhân chi tiết theo chuẩn mẫu.
