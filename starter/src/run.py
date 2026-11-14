@@ -1,4 +1,5 @@
 """Pipeline orchestrator for Day 06 Data Ingestion Lab."""
+import argparse
 import csv
 import json
 import logging
@@ -19,6 +20,10 @@ logger = logging.getLogger(__name__)
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Pipeline orchestrator for Day 06 Data Ingestion Lab.")
+    parser.add_argument("--hybrid", action="store_true", help="Also evaluate optional Hybrid Retrieval (BM25 + Dense vector)")
+    args = parser.parse_args()
+
     # 1. Load configuration
     base_dir = Path(__file__).resolve().parent.parent
     load_dotenv(base_dir / ".env")
@@ -250,6 +255,64 @@ def main() -> None:
         cnt = strategy_stats[s_name]["chunk_count"]
         print(f"{s_name:<10} | {'dev':<6} | {m['dev']['hit1_fraction']:<8} | {m['dev']['hit3_fraction']:<14} | {cnt:<8} | {'$0':<6}")
         print(f"{s_name:<10} | {'test':<6} | {m['test']['hit1_fraction']:<8} | {m['test']['hit3_fraction']:<14} | {cnt:<8} | {'$0':<6}")
+        print("-" * 80)
+
+    # 10. Optional Hybrid Retrieval Evaluation
+    if args.hybrid:
+        from .hybrid import HybridRetriever
+        logger.info("Running optional Hybrid Retrieval benchmark (BM25 + Dense vector)...")
+        hybrid_retriever = HybridRetriever(chunks=para_chunks, store=store, embedder=embedder)
+
+        experiments = [
+            {"name": "BM25-only", "method": "weighted", "alpha": 0.0},
+            {"name": "Dense-only (Strategy C)", "method": "weighted", "alpha": 1.0},
+            {"name": "Weighted (alpha=0.3)", "method": "weighted", "alpha": 0.3},
+            {"name": "Weighted (alpha=0.5)", "method": "weighted", "alpha": 0.5},
+            {"name": "Weighted (alpha=0.7)", "method": "weighted", "alpha": 0.7},
+            {"name": "RRF (k=60)", "method": "rrf", "alpha": None}
+        ]
+
+        hybrid_traces = {}
+        hybrid_summary_table = []
+        for exp in experiments:
+            exp_name = exp["name"]
+            method = exp["method"]
+            alpha = exp["alpha"]
+            traces = []
+            for q in benchmark_questions:
+                filt = q.get("filter")
+                if method == "rrf":
+                    hits = hybrid_retriever.search_hybrid(query=q["question"], top_k=3, method="rrf", filters=filt)
+                else:
+                    hits = hybrid_retriever.search_hybrid(query=q["question"], top_k=3, method="weighted", alpha=alpha, filters=filt)
+                trace = evaluate_query(q, hits)
+                traces.append(trace)
+            hybrid_traces[exp_name] = traces
+            summ = summarize(traces)
+            hybrid_summary_table.append({
+                "name": exp_name,
+                "dev_hit1": summ["dev"]["hit1_fraction"],
+                "dev_hit3": summ["dev"]["hit3_fraction"],
+                "test_hit1": summ["test"]["hit1_fraction"],
+                "test_hit3": summ["test"]["hit3_fraction"],
+            })
+
+        hybrid_out = {
+            "experiments": hybrid_summary_table,
+            "traces": hybrid_traces
+        }
+        for out_path in [results_dir / "hybrid_traces.json", base_dir.parent / "results" / "hybrid_traces.json"]:
+            if out_path.parent.exists():
+                with open(out_path, "w", encoding="utf-8") as f:
+                    json.dump(hybrid_out, f, indent=2, ensure_ascii=False)
+
+        print("\n" + "=" * 80)
+        print("OPTIONAL HYBRID RETRIEVAL BENCHMARK SUMMARY")
+        print("=" * 80)
+        print(f"{'Method / Configuration':<30} | {'Dev Hit@1':<10} | {'Dev Hit@3':<10} | {'Test Hit@1':<10} | {'Test Hit@3':<10}")
+        print("-" * 80)
+        for row in hybrid_summary_table:
+            print(f"{row['name']:<30} | {row['dev_hit1']:<10} | {row['dev_hit3']:<10} | {row['test_hit1']:<10} | {row['test_hit3']:<10}")
         print("-" * 80)
 
 

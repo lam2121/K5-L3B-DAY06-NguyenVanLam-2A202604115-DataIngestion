@@ -1249,6 +1249,320 @@
           "is_hit": false
         }
       ]
+    },
+    {
+      "question_id": "q21",
+      "split": "dev",
+      "type": "truc_tiep",
+      "question": "How is metacognition simply defined in the context of cognitive skills?",
+      "expected_answer": "Metacognition is defined as the practice of thinking about your thinking.",
+      "gold_page": 233,
+      "evidence_quote": "metacognition, the practice of thinking about your thinking.",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p252-fix006",
+          "page": 252,
+          "score": 0.7624,
+          "text": "metacognition when they practice self-awareness and self-assessment. You are the best judge of\nhow well you know a topic or a skill. In college especially, thinking about your thinking is crucial so you know\nwhat you don't know and how to fix this problem, i.e., what you need to study, how you need to organize your\ncalendar, and so on.\nIf you stop and recognize this challenge with the aim of improving your comprehension, you are practicing\n2 Flavell, J. H. (1976). Metacognitive aspects of probl",
+          "metadata": {
+            "chapter": 7,
+            "chunk_type": "fixed_size",
+            "char_length": 499,
+            "chapter_title": "Thinking"
+          },
+          "page_match": false,
+          "evidence_match": true,
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p252-fix004",
+          "page": 252,
+          "score": 0.7093,
+          "text": "al task is highly individual.\nSome people study well with music on in the background while others need absolute silence and see any noise\nas a distraction. Many chefs delight in creating dinners for hundreds of people in a chaotic kitchen but don’t\ncare for making a meal for two at home.\nWhen an individual thinks about how he or she thinks, this practice is called metacognition. Developmental\npsychiatrist John Flavell coined the term metacognition and divided the theory into three processes of\np",
+          "metadata": {
+            "chapter": 7,
+            "chunk_type": "fixed_size",
+            "char_length": 500,
+            "chapter_title": "Thinking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p252-fix005",
+          "page": 252,
+          "score": 0.695,
+          "text": "n and divided the theory into three processes of\nplanning, tracking, and assessing your own understanding.[2]\n“Becoming aware of your thought processes and using this awareness deliberately is a sign of\nmature thinking.”\nFor example, you may be reading a difficult passage in a textbook on chemistry and recognize that you are not\nfully understanding the meaning of the section you just read or its connection to the rest of the chapter.\nStudents use metacognition when they practice self-awareness a",
+          "metadata": {
+            "chapter": 7,
+            "chunk_type": "fixed_size",
+            "char_length": 500,
+            "chapter_title": "Thinking"
+          },
+          "page_match": false,
+          "evidence_match": true,
+          "is_hit": false
+        }
+      ]
+    },
+    {
+      "question_id": "q22",
+      "split": "dev",
+      "type": "dien_dat_lai",
+      "question": "Why is it appropriate for an undergraduate's near-term academic targets to resemble an itemized checklist?",
+      "expected_answer": "Short-term goals function to break down broader long-term goals into smaller, manageable chunks that are easier to focus on.",
+      "gold_page": 131,
+      "evidence_quote": "short-term goals can absolutely look like a checklist of tasks because their purpose is to break the long-term goal down into manageable chunks that are easier to focus on",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p131-fix000",
+          "page": 131,
+          "score": 0.4303,
+          "text": "Figure 4.4 Sunil drafted his goals before meeting with his advisor to discuss them.\nSunil worried that his list of short-term goals looked more like a checklist of tasks than anything. His advisor\nreassured him, sharing that short-term goals can absolutely look like a checklist of tasks because their\npurpose is to break the long-term goal down into manageable chunks that are easier to focus on and\ncomplete. His advisor then recommended that Sunil add to his plan an additional note at the end of",
+          "metadata": {
+            "chapter": 4,
+            "chunk_type": "fixed_size",
+            "char_length": 499,
+            "chapter_title": "Planning Your Academic Pathways"
+          },
+          "page_match": true,
+          "evidence_match": true,
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p41-fix007",
+          "page": 41,
+          "score": 0.3885,
+          "text": "eper into the topics.\nChapter 1 Exploring College 31",
+          "metadata": {
+            "chapter": 1,
+            "chunk_type": "fixed_size",
+            "char_length": 52,
+            "chapter_title": "Exploring College"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p12-fix004",
+          "page": 12,
+          "score": 0.3871,
+          "text": "-analysis are reflected in each section through applications and activities.\nStudent reflection and opinions can be captured directly in the text, online, or in worksheets provided through\nthe ancillary package.\nThe diversity and intersectionality of students was considered in every example, context, and application,\nand the text’s active surveys and detailed profiles make student voices a key element of the reading.\nInterconnected topics are acknowledged and built upon, demonstrating that no el",
+          "metadata": {
+            "chapter": 0,
+            "chunk_type": "fixed_size",
+            "char_length": 500,
+            "chapter_title": "Preface"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        }
+      ]
+    },
+    {
+      "question_id": "q23",
+      "split": "dev",
+      "type": "dieu_kien_ngoai_le",
+      "question": "What potential pitfall must learners avoid when creating personalized mnemonic devices?",
+      "expected_answer": "They must be cautious not to make the reminder so complex and convoluted that it is harder to recall than the original information.",
+      "gold_page": 216,
+      "evidence_quote": "You can certainly make up your own mnemonics, but be careful that your reminder isn’t so complex and convoluted that it is more difficult to remember than the information you were relating it to!",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p215-fix005",
+          "page": 215,
+          "score": 0.5465,
+          "text": "emonics\nMnemonics (pronounced new-monics) are a way to remember things using reminders. Did you learn the\npoints of the compass by remembering NEWS (north, east, west, and south)? Or the notes on the music staff\nas FACE or EGBDF (every good boy does fine)? These are mnemonics. When you’re first learning something\nand you aren’t familiar with the foundational concepts, these help you bring up the information quickly,\nespecially for multistep processes or lists. After you’ve worked in that discipl",
+          "metadata": {
+            "chapter": 6,
+            "chunk_type": "fixed_size",
+            "char_length": 500,
+            "chapter_title": "Studying, Memory, and Test Taking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p215-fix004",
+          "page": 215,
+          "score": 0.5283,
+          "text": "r you to recall information is a good tool to have. You can create your own quizzes and tests to go\nover material from class. You can use mnemonics to jog your memory. You can work in groups to develop\nunique ways to remember complex information. Whatever methods you choose to enhance your memory,\nkeep in mind that repetition is one of the most effective tools in any memory strategy. Do whatever you do\nover and over for the best results.\nUsing Mnemonics\nMnemonics (pronounced new-monics) are a wa",
+          "metadata": {
+            "chapter": 6,
+            "chunk_type": "fixed_size",
+            "char_length": 500,
+            "chapter_title": "Studying, Memory, and Test Taking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p216-fix000",
+          "page": 216,
+          "score": 0.524,
+          "text": "need the mnemonics, but you probably won’t forget them either.\nHere are some familiar mnemonics you may find useful:\nFigure 6.8\nYou can certainly make up your own mnemonics, but be careful that your reminder isn’t so complex and\nconvoluted that it is more difficult to remember than the information you were relating it to!\nPracticing Concept Association\nWhen you study, you’re going to make connections to other things—that’s a good thing. It shows a highly\nintelligent ability to make sense of the",
+          "metadata": {
+            "chapter": 6,
+            "chunk_type": "fixed_size",
+            "char_length": 499,
+            "chapter_title": "Studying, Memory, and Test Taking"
+          },
+          "page_match": true,
+          "evidence_match": true,
+          "is_hit": true
+        }
+      ]
+    },
+    {
+      "question_id": "q24",
+      "split": "dev",
+      "type": "loc_metadata",
+      "question": "In Chapter 5 on notetaking, what three distinct layout sections are created on a page when utilizing the Cornell Method?",
+      "expected_answer": "The summary area at the bottom, the recall column on the left, and the notes column on the right.",
+      "gold_page": 183,
+      "evidence_quote": "three sections by drawing a horizontal line across your paper about one to two inches from the bottom of the page (the summary area) and then drawing a vertical line to separate the rest of the page above this bottom area, making the left side about two inches (the recall column) and leaving the biggest area to the right of your vertical line (the notes column).",
+      "filter": {
+        "chapter": 5
+      },
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p184-fix000",
+          "page": 184,
+          "score": 0.763,
+          "text": "Figure 5.11 The Cornell Method provides a straightforward, organized, and flexible approach\nNow that you have the notetaking format generated, the beauty of the Cornell Method is its organized\nsimplicity. Just write on one side of the page (the right-hand notes column)—this will help later when you are\nreviewing and revising your notes. During your notetaking session, use the notes column to record\ninformation over the main points and concepts of the lecture; try to put the ideas into your own w",
+          "metadata": {
+            "chapter": 5,
+            "chunk_type": "fixed_size",
+            "char_length": 500,
+            "chapter_title": "Reading and Notetaking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p183-fix002",
+          "page": 183,
+          "score": 0.7156,
+          "text": "you can generate the sections quickly. Because you have divided up your\npage, you may end up using more paper than you would if you were writing on the entire page, but the point\nis not to keep your notes to as few pages as possible. The Cornell Method provides you with a well-organized\nset of notes that will help you study and review your notes as you move through the course. If you are taking\nnotes on your computer, you can still use the Cornell Method in Word or Excel on your own or by using",
+          "metadata": {
+            "chapter": 5,
+            "chunk_type": "fixed_size",
+            "char_length": 499,
+            "chapter_title": "Reading and Notetaking"
+          },
+          "page_match": true,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p183-fix000",
+          "page": 183,
+          "score": 0.6949,
+          "text": "take notes in such a way that you are able to study after the initial notetaking session.\nCornell Method\nOne of the most recognizable notetaking systems is called the Cornell Method, a relatively simple way to take\neffective notes devised by Cornell University education professor Dr. Walter Pauk in the 1940s. In this system,\nyou take a standard piece of note paper and divide it into three sections by drawing a horizontal line across\nyour paper about one to two inches from the bottom of the page",
+          "metadata": {
+            "chapter": 5,
+            "chunk_type": "fixed_size",
+            "char_length": 499,
+            "chapter_title": "Reading and Notetaking"
+          },
+          "page_match": true,
+          "evidence_match": false,
+          "is_hit": false
+        }
+      ]
+    },
+    {
+      "question_id": "q25",
+      "split": "test",
+      "type": "loc_metadata",
+      "question": "In Chapter 3 on time management, what do the five SMART goal attributes represent, and why are they considered desirable?",
+      "expected_answer": "SMART represents Specific, Measurable, Attainable, Relevant, and Time-bound; they are desirable because they guide execution planning and aid decision-making.",
+      "gold_page": 112,
+      "evidence_quote": "Measurable, Attainable, Relevant, and Time-bound. The reason these are all desirable traits for your goals is because they not only help you plan how to meet the goal, but they can also contribute to your decision-making processes during the planning stage.",
+      "filter": {
+        "chapter": 3
+      },
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p113-fix000",
+          "page": 113,
+          "score": 0.7099,
+          "text": "In the following table you can see some examples of goals that do and do not follow the SMART system. As\nyou read each one, think about what elements make them SMART or how you might change those that are\nnot.\nGoal Is it\nSMART?\nI am going to be rich\nsomeday.\nNo There is nothing really specific, measurable, or time-bound in this\ngoal.\nI will graduate with my\ndegree, on time.\nYes The statement calls out specific, measureable, and time-bound\ndetails. The other attributes of attainable and relevant",
+          "metadata": {
+            "chapter": 3,
+            "chunk_type": "fixed_size",
+            "char_length": 499,
+            "chapter_title": "Managing Your Time and Priorities"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p129-fix003",
+          "page": 129,
+          "score": 0.6881,
+          "text": "larity for the goal-setter to take realistic action toward meeting those goals. SMART\ngoals help you focus on your priorities and manage your time while also providing a means of organizing your\nthinking and actions into manageable steps. Long- and short-term goals help to connect the action steps.\nAN AL Y SIS QUESTION\nRecall a decision that you have recently made (for example, a smaller decision about how to spend your\nSaturday, or maybe a larger decision about where to apply for part-time work",
+          "metadata": {
+            "chapter": 4,
+            "chunk_type": "fixed_size",
+            "char_length": 500,
+            "chapter_title": "Planning Your Academic Pathways"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p113-fix002",
+          "page": 113,
+          "score": 0.6194,
+          "text": "RT attributes are implied, there is nothing\nreally measurable in this goal.\nI will earn at least a 3.0\nGPA in all my courses\nnext semester.\nYes All of the SMART attributes are present in this goal.\nI am going to start being\nmore organized.\nNo While most of the SMART attributes are implied, there is nothing\nreally measurable in this goal.\nTable 3.6\nMake an Action Plan\nLike anything else, making a step-by-step action plan of how you will attain your goals is the best way to make\ncertain you achiev",
+          "metadata": {
+            "chapter": 3,
+            "chunk_type": "fixed_size",
+            "char_length": 500,
+            "chapter_title": "Managing Your Time and Priorities"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        }
+      ]
     }
   ],
   "B": [
@@ -2495,6 +2809,320 @@
             "chunk_type": "by_paragraph",
             "char_length": 773,
             "chapter_title": "Studying, Memory, and Test Taking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        }
+      ]
+    },
+    {
+      "question_id": "q21",
+      "split": "dev",
+      "type": "truc_tiep",
+      "question": "How is metacognition simply defined in the context of cognitive skills?",
+      "expected_answer": "Metacognition is defined as the practice of thinking about your thinking.",
+      "gold_page": 233,
+      "evidence_quote": "metacognition, the practice of thinking about your thinking.",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p252-para003",
+          "page": 252,
+          "score": 0.7887,
+          "text": "Developmental\npsychiatrist John Flavell coined the term metacognition and divided the theory into three processes of\nplanning, tracking, and assessing your own understanding.[2]\n“Becoming aware of your thought processes and using this awareness deliberately is a sign of\nmature thinking.”\nFor example, you may be reading a difficult passage in a textbook on chemistry and recognize that you are not\nfully understanding the meaning of the section you just read or its connection to the rest of the chapter. Students use metacognition when they practice self-awareness and self-assessment. You are the best judge of\nhow well you know a topic or a skill.",
+          "metadata": {
+            "chapter": 7,
+            "chunk_type": "by_paragraph",
+            "char_length": 651,
+            "chapter_title": "Thinking"
+          },
+          "page_match": false,
+          "evidence_match": true,
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p253-para000",
+          "page": 253,
+          "score": 0.6538,
+          "text": "metacognition. You may decide to highlight difficult terms to look up, write a summary of each paragraph in\nas few sentences as you can, or join a peer study group to work on your comprehension. If you know you\nretain material better if you hear it, you may read out loud or watch video tutorials covering the material. These are all examples of thinking about how you think and adapting your behavior based on this\nmetacognition. Likewise, if you periodically assess your progress toward a goal, such as when you check your\ngrades in a course every few weeks during a long semester so you know how well you are doing, this too is\nmetacognition.",
+          "metadata": {
+            "chapter": 7,
+            "chunk_type": "by_paragraph",
+            "char_length": 645,
+            "chapter_title": "Thinking"
+          },
+          "page_match": false,
+          "evidence_match": true,
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p254-para000",
+          "page": 254,
+          "score": 0.5677,
+          "text": "continuing to sabotage sincere goals. Think now of a personal example of a habit you may want to change,\nsuch as smoking, or an attribute such as patience or perseverance you may want to improve in yourself. Can\nyou determine what steps you may need to undertake to change this habit or to develop a stronger awareness\nof the need to change? Using Thought Deliberately\nIf you need to plan, track, and assess your understanding to engage in metacognition, what strategies do you\nneed to employ? Students can use metacognition strategies before, during, and after reading, lectures,\nassignments, and group work. Planning\nStudents can plan and get ready to learn by asking questions such as:\n• What am I supposed to learn in this situation?",
+          "metadata": {
+            "chapter": 7,
+            "chunk_type": "by_paragraph",
+            "char_length": 737,
+            "chapter_title": "Thinking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        }
+      ]
+    },
+    {
+      "question_id": "q22",
+      "split": "dev",
+      "type": "dien_dat_lai",
+      "question": "Why is it appropriate for an undergraduate's near-term academic targets to resemble an itemized checklist?",
+      "expected_answer": "Short-term goals function to break down broader long-term goals into smaller, manageable chunks that are easier to focus on.",
+      "gold_page": 131,
+      "evidence_quote": "short-term goals can absolutely look like a checklist of tasks because their purpose is to break the long-term goal down into manageable chunks that are easier to focus on",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p131-para000",
+          "page": 131,
+          "score": 0.4404,
+          "text": "Figure 4.4 Sunil drafted his goals before meeting with his advisor to discuss them. Sunil worried that his list of short-term goals looked more like a checklist of tasks than anything. His advisor\nreassured him, sharing that short-term goals can absolutely look like a checklist of tasks because their\npurpose is to break the long-term goal down into manageable chunks that are easier to focus on and\ncomplete. His advisor then recommended that Sunil add to his plan an additional note at the end of every\nother semester to “check in” with his advisor to make certain that he was on track. Planning for Adjustments\nYou will recall from the SMART goals goal-setting model that goals should be both measurable and attainable.",
+          "metadata": {
+            "chapter": 4,
+            "chunk_type": "by_paragraph",
+            "char_length": 723,
+            "chapter_title": "Planning Your Academic Pathways"
+          },
+          "page_match": true,
+          "evidence_match": true,
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p149-para003",
+          "page": 149,
+          "score": 0.3841,
+          "text": "Being well-informed, having a clear sense of purpose, and taking the\nnecessary time to make a thoughtful decision will help to remove the anxiety associated with making the\n“right” decision, and help you make the best decision for you. APPLICA TION\nAcademic Planning Readiness Checklist: Review the checklist below and mark each item if you agree. For those you cannot yet answer, consult your instructor, academic advisor, or college website to locate\nthese important details. 1. I know the total number of credits required to graduate from my program. 2. I know the difference between general education, major, and elective classes. 3.",
+          "metadata": {
+            "chapter": 4,
+            "chunk_type": "by_paragraph",
+            "char_length": 637,
+            "chapter_title": "Planning Your Academic Pathways"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p243-para003",
+          "page": 243,
+          "score": 0.3824,
+          "text": "Think of all the thinking that goes into the logistics of a dinner-and-a-movie\ndate—where to eat, what to watch, who to invite, what to wear, popcorn or candy—when choices and\ndecisions are rapid-fire, but we do it relatively successfully all the time. Employers specifically look for candidates with analytical skills because they need to know employees can use\nChapter 7 Thinking 233",
+          "metadata": {
+            "chapter": 7,
+            "chunk_type": "by_paragraph",
+            "char_length": 385,
+            "chapter_title": "Thinking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        }
+      ]
+    },
+    {
+      "question_id": "q23",
+      "split": "dev",
+      "type": "dieu_kien_ngoai_le",
+      "question": "What potential pitfall must learners avoid when creating personalized mnemonic devices?",
+      "expected_answer": "They must be cautious not to make the reminder so complex and convoluted that it is harder to recall than the original information.",
+      "gold_page": 216,
+      "evidence_quote": "You can certainly make up your own mnemonics, but be careful that your reminder isn’t so complex and convoluted that it is more difficult to remember than the information you were relating it to!",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p215-para003",
+          "page": 215,
+          "score": 0.5504,
+          "text": "Do whatever you do\nover and over for the best results. Using Mnemonics\nMnemonics (pronounced new-monics) are a way to remember things using reminders. Did you learn the\npoints of the compass by remembering NEWS (north, east, west, and south)? Or the notes on the music staff\nas FACE or EGBDF (every good boy does fine)? These are mnemonics. When you’re first learning something\nand you aren’t familiar with the foundational concepts, these help you bring up the information quickly,\nespecially for multistep processes or lists. After you’ve worked in that discipline for a while, you likely don’t\nAN AL Y SIS QUESTION\nWhen are you most liable to multitask? How could you be more aware of this practice and try to\neliminate it, especially when it comes to studying?",
+          "metadata": {
+            "chapter": 6,
+            "chunk_type": "by_paragraph",
+            "char_length": 764,
+            "chapter_title": "Studying, Memory, and Test Taking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p216-para000",
+          "page": 216,
+          "score": 0.5368,
+          "text": "need the mnemonics, but you probably won’t forget them either. Here are some familiar mnemonics you may find useful:\nFigure 6.8\nYou can certainly make up your own mnemonics, but be careful that your reminder isn’t so complex and\nconvoluted that it is more difficult to remember than the information you were relating it to! Practicing Concept Association\nWhen you study, you’re going to make connections to other things—that’s a good thing. It shows a highly\nintelligent ability to make sense of the world when you can associate like and even somewhat unlike\ncomponents.",
+          "metadata": {
+            "chapter": 6,
+            "chunk_type": "by_paragraph",
+            "char_length": 570,
+            "chapter_title": "Studying, Memory, and Test Taking"
+          },
+          "page_match": true,
+          "evidence_match": true,
+          "is_hit": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p204-para002",
+          "page": 204,
+          "score": 0.522,
+          "text": "When you go\ngrocery shopping, do you ever choose a product because you recall an advertising jingle? You see the box of\ncereal and you remember the song on the TV commercial. If that memory causes you to buy that product, the\nadvertising worked. We help our memory along all the time, which is perfectly fine. In fact, we can modify\nthese everyday examples of memory assistance for purposes of studying and test taking. The key is deliberate\nuse of strategies that are not so elaborate that they are too difficult to remember in our short-term memory. A C TIVI T Y\nConsider this list of items. Look at the list for no more than 30 seconds. Then, cover up the list and use\nthe spaces below to complete an activity.",
+          "metadata": {
+            "chapter": 6,
+            "chunk_type": "by_paragraph",
+            "char_length": 713,
+            "chapter_title": "Studying, Memory, and Test Taking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        }
+      ]
+    },
+    {
+      "question_id": "q24",
+      "split": "dev",
+      "type": "loc_metadata",
+      "question": "In Chapter 5 on notetaking, what three distinct layout sections are created on a page when utilizing the Cornell Method?",
+      "expected_answer": "The summary area at the bottom, the recall column on the left, and the notes column on the right.",
+      "gold_page": 183,
+      "evidence_quote": "three sections by drawing a horizontal line across your paper about one to two inches from the bottom of the page (the summary area) and then drawing a vertical line to separate the rest of the page above this bottom area, making the left side about two inches (the recall column) and leaving the biggest area to the right of your vertical line (the notes column).",
+      "filter": {
+        "chapter": 5
+      },
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p183-para001",
+          "page": 183,
+          "score": 0.6835,
+          "text": "You may want\nto make one page and then copy as many pages as you think you’ll need for any particular class, but one\nadvantage of this system is that you can generate the sections quickly. Because you have divided up your\npage, you may end up using more paper than you would if you were writing on the entire page, but the point\nis not to keep your notes to as few pages as possible. The Cornell Method provides you with a well-organized\nset of notes that will help you study and review your notes as you move through the course. If you are taking\nnotes on your computer, you can still use the Cornell Method in Word or Excel on your own or by using a\ntemplate someone else created. Chapter 5 Reading and Notetaking 173",
+          "metadata": {
+            "chapter": 5,
+            "chunk_type": "by_paragraph",
+            "char_length": 719,
+            "chapter_title": "Reading and Notetaking"
+          },
+          "page_match": true,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p186-para000",
+          "page": 186,
+          "score": 0.6644,
+          "text": "Figure 5.12 This sample set of notes in the Cornell Method is designed to make sense of a large amount of\ninformation. The process of organizing the notes can help you retain the information more effectively than\nless consistent methods. The main advantage of the Cornell Method is that you are setting yourself up to have organized, workable\nnotes. The neat format helps you move into study-mode without needing to re-copy less organized notes or\nmaking sense of a large mass of information you aren’t sure how to process because you can’t remember key\nideas or what you meant. If you write notes in your classes without any sort of system and later come across\nsomething like “Napoleon—short” in the middle of a glob of notes, what can you do at this point? Is that\nimportant?",
+          "metadata": {
+            "chapter": 5,
+            "chunk_type": "by_paragraph",
+            "char_length": 778,
+            "chapter_title": "Reading and Notetaking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p197-para004",
+          "page": 197,
+          "score": 0.6475,
+          "text": "This is the book that introduced Pauk’s notetaking\nsuggestions we now call the Cornell Method. It is a bit dated (from the 1940s), but still contains\nsome valuable information. Chapter 5 Reading and Notetaking 187",
+          "metadata": {
+            "chapter": 5,
+            "chunk_type": "by_paragraph",
+            "char_length": 213,
+            "chapter_title": "Reading and Notetaking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        }
+      ]
+    },
+    {
+      "question_id": "q25",
+      "split": "test",
+      "type": "loc_metadata",
+      "question": "In Chapter 3 on time management, what do the five SMART goal attributes represent, and why are they considered desirable?",
+      "expected_answer": "SMART represents Specific, Measurable, Attainable, Relevant, and Time-bound; they are desirable because they guide execution planning and aid decision-making.",
+      "gold_page": 112,
+      "evidence_quote": "Measurable, Attainable, Relevant, and Time-bound. The reason these are all desirable traits for your goals is because they not only help you plan how to meet the goal, but they can also contribute to your decision-making processes during the planning stage.",
+      "filter": {
+        "chapter": 3
+      },
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p113-para000",
+          "page": 113,
+          "score": 0.6873,
+          "text": "In the following table you can see some examples of goals that do and do not follow the SMART system. As\nyou read each one, think about what elements make them SMART or how you might change those that are\nnot. Goal Is it\nSMART? I am going to be rich\nsomeday. No There is nothing really specific, measurable, or time-bound in this\ngoal. I will graduate with my\ndegree, on time. Yes The statement calls out specific, measureable, and time-bound\ndetails. The other attributes of attainable and relevant are\nimplied. I am going to save\nenough money to buy a\nnewer car by June. Yes All SMART attributes are covered in this goal. I would like to do well in\nall my courses next\nsemester.",
+          "metadata": {
+            "chapter": 3,
+            "chunk_type": "by_paragraph",
+            "char_length": 680,
+            "chapter_title": "Managing Your Time and Priorities"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p129-para002",
+          "page": 129,
+          "score": 0.6305,
+          "text": "SMART\ngoals help you focus on your priorities and manage your time while also providing a means of organizing your\nthinking and actions into manageable steps. Long- and short-term goals help to connect the action steps. AN AL Y SIS QUESTION\nRecall a decision that you have recently made (for example, a smaller decision about how to spend your\nSaturday, or maybe a larger decision about where to apply for part-time work). Did the values you\nidentified through this exercise influence that decision? If so, how? Chapter 4 Planning Your Academic Pathways 119",
+          "metadata": {
+            "chapter": 4,
+            "chunk_type": "by_paragraph",
+            "char_length": 557,
+            "chapter_title": "Planning Your Academic Pathways"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p113-para001",
+          "page": 113,
+          "score": 0.6016,
+          "text": "No While this is clearly time-bound and meets most of the SMART\ngoal attributes, it is not specific or measurable without defining\nwhat “do well” means. I am going to start being\na nicer person. No While most of the SMART attributes are implied, there is nothing\nreally measurable in this goal. I will earn at least a 3.0\nGPA in all my courses\nnext semester. Yes All of the SMART attributes are present in this goal. I am going to start being\nmore organized. No While most of the SMART attributes are implied, there is nothing\nreally measurable in this goal. Table 3.6\nMake an Action Plan\nLike anything else, making a step-by-step action plan of how you will attain your goals is the best way to make\ncertain you achieve them.",
+          "metadata": {
+            "chapter": 3,
+            "chunk_type": "by_paragraph",
+            "char_length": 726,
+            "chapter_title": "Managing Your Time and Priorities"
           },
           "page_match": false,
           "evidence_match": false,
@@ -3751,6 +4379,320 @@
           "page_match": false,
           "evidence_match": false,
           "is_hit": false
+        }
+      ]
+    },
+    {
+      "question_id": "q21",
+      "split": "dev",
+      "type": "truc_tiep",
+      "question": "How is metacognition simply defined in the context of cognitive skills?",
+      "expected_answer": "Metacognition is defined as the practice of thinking about your thinking.",
+      "gold_page": 233,
+      "evidence_quote": "metacognition, the practice of thinking about your thinking.",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p252-para003",
+          "page": 252,
+          "score": 0.7887,
+          "text": "Developmental\npsychiatrist John Flavell coined the term metacognition and divided the theory into three processes of\nplanning, tracking, and assessing your own understanding.[2]\n“Becoming aware of your thought processes and using this awareness deliberately is a sign of\nmature thinking.”\nFor example, you may be reading a difficult passage in a textbook on chemistry and recognize that you are not\nfully understanding the meaning of the section you just read or its connection to the rest of the chapter. Students use metacognition when they practice self-awareness and self-assessment. You are the best judge of\nhow well you know a topic or a skill.",
+          "metadata": {
+            "chapter": 7,
+            "chunk_type": "by_paragraph",
+            "char_length": 651,
+            "chapter_title": "Thinking"
+          },
+          "page_match": false,
+          "evidence_match": true,
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p253-para000",
+          "page": 253,
+          "score": 0.6538,
+          "text": "metacognition. You may decide to highlight difficult terms to look up, write a summary of each paragraph in\nas few sentences as you can, or join a peer study group to work on your comprehension. If you know you\nretain material better if you hear it, you may read out loud or watch video tutorials covering the material. These are all examples of thinking about how you think and adapting your behavior based on this\nmetacognition. Likewise, if you periodically assess your progress toward a goal, such as when you check your\ngrades in a course every few weeks during a long semester so you know how well you are doing, this too is\nmetacognition.",
+          "metadata": {
+            "chapter": 7,
+            "chunk_type": "by_paragraph",
+            "char_length": 645,
+            "chapter_title": "Thinking"
+          },
+          "page_match": false,
+          "evidence_match": true,
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p254-para000",
+          "page": 254,
+          "score": 0.5677,
+          "text": "continuing to sabotage sincere goals. Think now of a personal example of a habit you may want to change,\nsuch as smoking, or an attribute such as patience or perseverance you may want to improve in yourself. Can\nyou determine what steps you may need to undertake to change this habit or to develop a stronger awareness\nof the need to change? Using Thought Deliberately\nIf you need to plan, track, and assess your understanding to engage in metacognition, what strategies do you\nneed to employ? Students can use metacognition strategies before, during, and after reading, lectures,\nassignments, and group work. Planning\nStudents can plan and get ready to learn by asking questions such as:\n• What am I supposed to learn in this situation?",
+          "metadata": {
+            "chapter": 7,
+            "chunk_type": "by_paragraph",
+            "char_length": 737,
+            "chapter_title": "Thinking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        }
+      ]
+    },
+    {
+      "question_id": "q22",
+      "split": "dev",
+      "type": "dien_dat_lai",
+      "question": "Why is it appropriate for an undergraduate's near-term academic targets to resemble an itemized checklist?",
+      "expected_answer": "Short-term goals function to break down broader long-term goals into smaller, manageable chunks that are easier to focus on.",
+      "gold_page": 131,
+      "evidence_quote": "short-term goals can absolutely look like a checklist of tasks because their purpose is to break the long-term goal down into manageable chunks that are easier to focus on",
+      "filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p131-para000",
+          "page": 131,
+          "score": 0.4404,
+          "text": "Figure 4.4 Sunil drafted his goals before meeting with his advisor to discuss them. Sunil worried that his list of short-term goals looked more like a checklist of tasks than anything. His advisor\nreassured him, sharing that short-term goals can absolutely look like a checklist of tasks because their\npurpose is to break the long-term goal down into manageable chunks that are easier to focus on and\ncomplete. His advisor then recommended that Sunil add to his plan an additional note at the end of every\nother semester to “check in” with his advisor to make certain that he was on track. Planning for Adjustments\nYou will recall from the SMART goals goal-setting model that goals should be both measurable and attainable.",
+          "metadata": {
+            "chapter": 4,
+            "chunk_type": "by_paragraph",
+            "char_length": 723,
+            "chapter_title": "Planning Your Academic Pathways"
+          },
+          "page_match": true,
+          "evidence_match": true,
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p149-para003",
+          "page": 149,
+          "score": 0.3841,
+          "text": "Being well-informed, having a clear sense of purpose, and taking the\nnecessary time to make a thoughtful decision will help to remove the anxiety associated with making the\n“right” decision, and help you make the best decision for you. APPLICA TION\nAcademic Planning Readiness Checklist: Review the checklist below and mark each item if you agree. For those you cannot yet answer, consult your instructor, academic advisor, or college website to locate\nthese important details. 1. I know the total number of credits required to graduate from my program. 2. I know the difference between general education, major, and elective classes. 3.",
+          "metadata": {
+            "chapter": 4,
+            "chunk_type": "by_paragraph",
+            "char_length": 637,
+            "chapter_title": "Planning Your Academic Pathways"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p243-para003",
+          "page": 243,
+          "score": 0.3824,
+          "text": "Think of all the thinking that goes into the logistics of a dinner-and-a-movie\ndate—where to eat, what to watch, who to invite, what to wear, popcorn or candy—when choices and\ndecisions are rapid-fire, but we do it relatively successfully all the time. Employers specifically look for candidates with analytical skills because they need to know employees can use\nChapter 7 Thinking 233",
+          "metadata": {
+            "chapter": 7,
+            "chunk_type": "by_paragraph",
+            "char_length": 385,
+            "chapter_title": "Thinking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        }
+      ]
+    },
+    {
+      "question_id": "q23",
+      "split": "dev",
+      "type": "dieu_kien_ngoai_le",
+      "question": "What potential pitfall must learners avoid when creating personalized mnemonic devices?",
+      "expected_answer": "They must be cautious not to make the reminder so complex and convoluted that it is harder to recall than the original information.",
+      "gold_page": 216,
+      "evidence_quote": "You can certainly make up your own mnemonics, but be careful that your reminder isn’t so complex and convoluted that it is more difficult to remember than the information you were relating it to!",
+      "filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p215-para003",
+          "page": 215,
+          "score": 0.5504,
+          "text": "Do whatever you do\nover and over for the best results. Using Mnemonics\nMnemonics (pronounced new-monics) are a way to remember things using reminders. Did you learn the\npoints of the compass by remembering NEWS (north, east, west, and south)? Or the notes on the music staff\nas FACE or EGBDF (every good boy does fine)? These are mnemonics. When you’re first learning something\nand you aren’t familiar with the foundational concepts, these help you bring up the information quickly,\nespecially for multistep processes or lists. After you’ve worked in that discipline for a while, you likely don’t\nAN AL Y SIS QUESTION\nWhen are you most liable to multitask? How could you be more aware of this practice and try to\neliminate it, especially when it comes to studying?",
+          "metadata": {
+            "chapter": 6,
+            "chunk_type": "by_paragraph",
+            "char_length": 764,
+            "chapter_title": "Studying, Memory, and Test Taking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p216-para000",
+          "page": 216,
+          "score": 0.5368,
+          "text": "need the mnemonics, but you probably won’t forget them either. Here are some familiar mnemonics you may find useful:\nFigure 6.8\nYou can certainly make up your own mnemonics, but be careful that your reminder isn’t so complex and\nconvoluted that it is more difficult to remember than the information you were relating it to! Practicing Concept Association\nWhen you study, you’re going to make connections to other things—that’s a good thing. It shows a highly\nintelligent ability to make sense of the world when you can associate like and even somewhat unlike\ncomponents.",
+          "metadata": {
+            "chapter": 6,
+            "chunk_type": "by_paragraph",
+            "char_length": 570,
+            "chapter_title": "Studying, Memory, and Test Taking"
+          },
+          "page_match": true,
+          "evidence_match": true,
+          "is_hit": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p204-para002",
+          "page": 204,
+          "score": 0.522,
+          "text": "When you go\ngrocery shopping, do you ever choose a product because you recall an advertising jingle? You see the box of\ncereal and you remember the song on the TV commercial. If that memory causes you to buy that product, the\nadvertising worked. We help our memory along all the time, which is perfectly fine. In fact, we can modify\nthese everyday examples of memory assistance for purposes of studying and test taking. The key is deliberate\nuse of strategies that are not so elaborate that they are too difficult to remember in our short-term memory. A C TIVI T Y\nConsider this list of items. Look at the list for no more than 30 seconds. Then, cover up the list and use\nthe spaces below to complete an activity.",
+          "metadata": {
+            "chapter": 6,
+            "chunk_type": "by_paragraph",
+            "char_length": 713,
+            "chapter_title": "Studying, Memory, and Test Taking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        }
+      ]
+    },
+    {
+      "question_id": "q24",
+      "split": "dev",
+      "type": "loc_metadata",
+      "question": "In Chapter 5 on notetaking, what three distinct layout sections are created on a page when utilizing the Cornell Method?",
+      "expected_answer": "The summary area at the bottom, the recall column on the left, and the notes column on the right.",
+      "gold_page": 183,
+      "evidence_quote": "three sections by drawing a horizontal line across your paper about one to two inches from the bottom of the page (the summary area) and then drawing a vertical line to separate the rest of the page above this bottom area, making the left side about two inches (the recall column) and leaving the biggest area to the right of your vertical line (the notes column).",
+      "filter": {
+        "chapter": 5
+      },
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p183-para001",
+          "page": 183,
+          "score": 0.6835,
+          "text": "You may want\nto make one page and then copy as many pages as you think you’ll need for any particular class, but one\nadvantage of this system is that you can generate the sections quickly. Because you have divided up your\npage, you may end up using more paper than you would if you were writing on the entire page, but the point\nis not to keep your notes to as few pages as possible. The Cornell Method provides you with a well-organized\nset of notes that will help you study and review your notes as you move through the course. If you are taking\nnotes on your computer, you can still use the Cornell Method in Word or Excel on your own or by using a\ntemplate someone else created. Chapter 5 Reading and Notetaking 173",
+          "metadata": {
+            "chapter": 5,
+            "chunk_type": "by_paragraph",
+            "char_length": 719,
+            "chapter_title": "Reading and Notetaking"
+          },
+          "page_match": true,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p186-para000",
+          "page": 186,
+          "score": 0.6644,
+          "text": "Figure 5.12 This sample set of notes in the Cornell Method is designed to make sense of a large amount of\ninformation. The process of organizing the notes can help you retain the information more effectively than\nless consistent methods. The main advantage of the Cornell Method is that you are setting yourself up to have organized, workable\nnotes. The neat format helps you move into study-mode without needing to re-copy less organized notes or\nmaking sense of a large mass of information you aren’t sure how to process because you can’t remember key\nideas or what you meant. If you write notes in your classes without any sort of system and later come across\nsomething like “Napoleon—short” in the middle of a glob of notes, what can you do at this point? Is that\nimportant?",
+          "metadata": {
+            "chapter": 5,
+            "chunk_type": "by_paragraph",
+            "char_length": 778,
+            "chapter_title": "Reading and Notetaking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p197-para004",
+          "page": 197,
+          "score": 0.6475,
+          "text": "This is the book that introduced Pauk’s notetaking\nsuggestions we now call the Cornell Method. It is a bit dated (from the 1940s), but still contains\nsome valuable information. Chapter 5 Reading and Notetaking 187",
+          "metadata": {
+            "chapter": 5,
+            "chunk_type": "by_paragraph",
+            "char_length": 213,
+            "chapter_title": "Reading and Notetaking"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        }
+      ]
+    },
+    {
+      "question_id": "q25",
+      "split": "test",
+      "type": "loc_metadata",
+      "question": "In Chapter 3 on time management, what do the five SMART goal attributes represent, and why are they considered desirable?",
+      "expected_answer": "SMART represents Specific, Measurable, Attainable, Relevant, and Time-bound; they are desirable because they guide execution planning and aid decision-making.",
+      "gold_page": 112,
+      "evidence_quote": "Measurable, Attainable, Relevant, and Time-bound. The reason these are all desirable traits for your goals is because they not only help you plan how to meet the goal, but they can also contribute to your decision-making processes during the planning stage.",
+      "filter": {
+        "chapter": 3
+      },
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "hits": [
+        {
+          "rank": 1,
+          "chunk_id": "openstax-college-success-p113-para000",
+          "page": 113,
+          "score": 0.6873,
+          "text": "In the following table you can see some examples of goals that do and do not follow the SMART system. As\nyou read each one, think about what elements make them SMART or how you might change those that are\nnot. Goal Is it\nSMART? I am going to be rich\nsomeday. No There is nothing really specific, measurable, or time-bound in this\ngoal. I will graduate with my\ndegree, on time. Yes The statement calls out specific, measureable, and time-bound\ndetails. The other attributes of attainable and relevant are\nimplied. I am going to save\nenough money to buy a\nnewer car by June. Yes All SMART attributes are covered in this goal. I would like to do well in\nall my courses next\nsemester.",
+          "metadata": {
+            "chapter": 3,
+            "chunk_type": "by_paragraph",
+            "char_length": 680,
+            "chapter_title": "Managing Your Time and Priorities"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "openstax-college-success-p113-para001",
+          "page": 113,
+          "score": 0.6016,
+          "text": "No While this is clearly time-bound and meets most of the SMART\ngoal attributes, it is not specific or measurable without defining\nwhat “do well” means. I am going to start being\na nicer person. No While most of the SMART attributes are implied, there is nothing\nreally measurable in this goal. I will earn at least a 3.0\nGPA in all my courses\nnext semester. Yes All of the SMART attributes are present in this goal. I am going to start being\nmore organized. No While most of the SMART attributes are implied, there is nothing\nreally measurable in this goal. Table 3.6\nMake an Action Plan\nLike anything else, making a step-by-step action plan of how you will attain your goals is the best way to make\ncertain you achieve them.",
+          "metadata": {
+            "chapter": 3,
+            "chunk_type": "by_paragraph",
+            "char_length": 726,
+            "chapter_title": "Managing Your Time and Priorities"
+          },
+          "page_match": false,
+          "evidence_match": false,
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "openstax-college-success-p112-para002",
+          "page": 112,
+          "score": 0.5806,
+          "text": "In this case, the word smart is not only a clever description of the type of goal,\nbut it is also an acronym that stands for Specific, Measurable, Attainable, Relevant, and Time-bound. The\nreason these are all desirable traits for your goals is because they not only help you plan how to meet the goal,\nbut they can also contribute to your decision-making processes during the planning stage. What does it mean to create SMART goals? • Specific—For a goal to be specific, it must be defined enough to actually determine the goal. A goal of get\na good job when I graduate is too general. It doesn’t define what a good job is. In fact, it doesn’t even\nnecessarily include a job in your chosen profession.",
+          "metadata": {
+            "chapter": 3,
+            "chunk_type": "by_paragraph",
+            "char_length": 702,
+            "chapter_title": "Managing Your Time and Priorities"
+          },
+          "page_match": true,
+          "evidence_match": true,
+          "is_hit": true
         }
       ]
     }
